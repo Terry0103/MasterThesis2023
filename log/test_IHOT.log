@@ -1,0 +1,485 @@
+2023-06-16 18:30:21 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-16 18:30:23 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-16 18:30:23 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-16 18:30:23 INFO Test progress is over.
+2023-06-16 18:30:23 INFO ----------------------------------------------------------------------------------------------------
+2023-06-19 14:28:33 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-19 14:28:35 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-19 14:28:35 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-19 14:28:35 INFO Test progress is over.
+2023-06-19 14:28:35 INFO ----------------------------------------------------------------------------------------------------
+2023-06-19 15:49:35 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-19 15:49:37 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-19 15:49:37 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-19 15:49:37 INFO Test progress is over.
+2023-06-19 15:49:37 INFO ----------------------------------------------------------------------------------------------------
+2023-06-19 15:59:49 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-19 15:59:51 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-19 15:59:51 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-19 15:59:51 INFO Test progress is over.
+2023-06-19 15:59:51 INFO ----------------------------------------------------------------------------------------------------
+2023-06-19 16:00:22 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-19 16:00:24 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-19 16:00:24 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-19 16:00:24 INFO Test progress is over.
+2023-06-19 16:00:24 INFO ----------------------------------------------------------------------------------------------------
+2023-06-30 13:21:39 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-30 13:21:42 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-30 13:21:42 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-30 13:21:42 INFO Test progress is over.
+2023-06-30 13:21:42 INFO ----------------------------------------------------------------------------------------------------
+2023-06-30 13:56:35 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-30 13:56:38 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-30 13:56:38 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-30 13:56:38 INFO Test progress is over.
+2023-06-30 13:56:38 INFO ----------------------------------------------------------------------------------------------------
+2023-06-30 13:59:52 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-30 13:59:55 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-30 13:59:55 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-30 13:59:55 INFO Test progress is over.
+2023-06-30 13:59:55 INFO ----------------------------------------------------------------------------------------------------
+2023-06-30 14:03:24 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-30 14:03:26 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-30 14:03:26 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-30 14:03:26 INFO Test progress is over.
+2023-06-30 14:03:26 INFO ----------------------------------------------------------------------------------------------------
+2023-06-30 14:03:40 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-06-30 14:03:42 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-06-30 14:03:42 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-06-30 14:03:42 INFO Test progress is over.
+2023-06-30 14:03:42 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 13:04:20 INFO Original evaluation outcome :
+Accuracy     0.892248
+AUC          0.568654
+F1-score     0.210000
+Recall       0.183333
+Precision    0.250000
+G-mean       0.324074
+Name: 0, dtype: float64
+2023-07-03 13:04:23 INFO Revised evaluation outcome :
+Accuracy     0.826800
+AUC          0.754167
+F1-score     0.397461
+Recall       0.666667
+Precision    0.293376
+G-mean       0.734867
+Name: 0, dtype: float64
+2023-07-03 13:04:23 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=139), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-07-03 13:04:23 INFO Test progress is over.
+2023-07-03 13:04:23 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:39:10 INFO Original evaluation outcome :
+Accuracy     0.967252
+AUC          0.862038
+F1-score     0.741429
+Recall       0.740000
+Precision    0.776667
+G-mean       0.844757
+Name: 0, dtype: float64
+2023-07-03 16:41:24 INFO Original evaluation outcome :
+Accuracy     0.967252
+AUC          0.862038
+F1-score     0.741429
+Recall       0.740000
+Precision    0.776667
+G-mean       0.844757
+Name: 0, dtype: float64
+2023-07-03 16:41:26 INFO Revised evaluation outcome :
+Accuracy     0.901932
+AUC          0.868891
+F1-score     0.541511
+Recall       0.830000
+Precision    0.414713
+G-mean       0.864177
+Name: 0, dtype: float64
+2023-07-03 16:41:26 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=266), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-07-03 16:41:26 INFO Test progress is over.
+2023-07-03 16:41:26 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:42:05 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:42:08 INFO Revised evaluation outcome :
+Accuracy     0.738870
+AUC          0.560513
+F1-score     0.174444
+Recall       0.350000
+Precision    0.123230
+G-mean       0.383035
+Name: 0, dtype: float64
+2023-07-03 16:42:08 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=best, max_saturation=7
+2023-07-03 16:42:08 INFO Test progress is over.
+2023-07-03 16:42:08 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:42:40 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:42:43 INFO Revised evaluation outcome :
+Accuracy     0.743632
+AUC          0.563077
+F1-score     0.181587
+Recall       0.350000
+Precision    0.133230
+G-mean       0.384587
+Name: 0, dtype: float64
+2023-07-03 16:42:43 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-03 16:42:43 INFO Test progress is over.
+2023-07-03 16:42:43 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:44:46 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:44:48 INFO Revised evaluation outcome :
+Accuracy     0.743632
+AUC          0.563077
+F1-score     0.181587
+Recall       0.350000
+Precision    0.133230
+G-mean       0.384587
+Name: 0, dtype: float64
+2023-07-03 16:44:48 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-03 16:44:48 INFO Test progress is over.
+2023-07-03 16:44:48 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:50:06 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:51:28 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:51:48 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:52:01 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:52:04 INFO Revised evaluation outcome :
+Accuracy     0.743632
+AUC          0.563077
+F1-score     0.181587
+Recall       0.350000
+Precision    0.133230
+G-mean       0.384587
+Name: 0, dtype: float64
+2023-07-03 16:52:04 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-03 16:52:04 INFO Test progress is over.
+2023-07-03 16:52:04 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:53:33 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:53:37 INFO Revised evaluation outcome :
+Accuracy     0.743632
+AUC          0.563077
+F1-score     0.181587
+Recall       0.350000
+Precision    0.133230
+G-mean       0.384587
+Name: 0, dtype: float64
+2023-07-03 16:53:37 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-03 16:53:37 INFO Test progress is over.
+2023-07-03 16:53:37 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:53:57 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:54:00 INFO Revised evaluation outcome :
+Accuracy     0.776190
+AUC          0.732372
+F1-score     0.362327
+Recall       0.683333
+Precision    0.258158
+G-mean       0.705657
+Name: 0, dtype: float64
+2023-07-03 16:54:00 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-03 16:54:00 INFO Test progress is over.
+2023-07-03 16:54:00 INFO ----------------------------------------------------------------------------------------------------
+2023-07-03 16:55:01 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-03 16:55:04 INFO Revised evaluation outcome :
+Accuracy     0.776190
+AUC          0.732372
+F1-score     0.362327
+Recall       0.683333
+Precision    0.258158
+G-mean       0.705657
+Name: 0, dtype: float64
+2023-07-03 16:55:04 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-03 16:55:04 INFO Test progress is over.
+2023-07-03 16:55:04 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:12:00 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-12 17:12:02 INFO Revised evaluation outcome :
+Accuracy     0.776190
+AUC          0.732372
+F1-score     0.362327
+Recall       0.683333
+Precision    0.258158
+G-mean       0.705657
+Name: 0, dtype: float64
+2023-07-12 17:12:02 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-12 17:12:02 INFO Test progress is over.
+2023-07-12 17:12:02 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:12:44 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-12 17:12:48 INFO Revised evaluation outcome :
+Accuracy     0.776190
+AUC          0.732372
+F1-score     0.362327
+Recall       0.683333
+Precision    0.258158
+G-mean       0.705657
+Name: 0, dtype: float64
+2023-07-12 17:12:48 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-12 17:12:48 INFO Test progress is over.
+2023-07-12 17:12:48 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:21:10 INFO Original evaluation outcome :
+Accuracy     0.931600
+AUC          0.659712
+F1-score     0.377270
+Recall       0.352778
+Precision    0.433939
+G-mean       0.577227
+Name: 0, dtype: float64
+2023-07-12 17:21:27 INFO Revised evaluation outcome :
+Accuracy     0.852204
+AUC          0.681359
+F1-score     0.298038
+Recall       0.488889
+Precision    0.221710
+G-mean       0.640213
+Name: 0, dtype: float64
+2023-07-12 17:21:27 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=461), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-12 17:21:27 INFO Test progress is over.
+2023-07-12 17:21:27 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:22:10 INFO Original evaluation outcome :
+Accuracy     0.991135
+AUC          0.499396
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-07-24 10:18:27 INFO Original evaluation outcome :
+Accuracy     0.991135
+AUC          0.499396
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-07-24 10:20:22 INFO Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+2023-07-24 10:20:25 INFO Revised evaluation outcome :
+Accuracy     0.776190
+AUC          0.732372
+F1-score     0.362327
+Recall       0.683333
+Precision    0.258158
+G-mean       0.705657
+Name: 0, dtype: float64
+2023-07-24 10:20:25 INFO IHOT(n_neighbors=3, kNN=NearestNeighbors(n_neighbors=134), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), optimization=saturation, max_saturation=7
+2023-07-24 10:20:25 INFO Test progress is over.
+2023-07-24 10:20:25 INFO ----------------------------------------------------------------------------------------------------

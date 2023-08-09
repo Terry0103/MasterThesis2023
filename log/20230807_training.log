@@ -1,0 +1,340 @@
+2023-08-07 16:20:51 INFO DT starts to process.
+2023-08-07 16:20:52 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:24:18 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:24:19 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:24:19 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score  Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.740385  0.561905    0.50   0.766667  0.689666
+ecoli-0-1-4-7_vs_5-6  0.966893  0.853496  0.764444    0.72   0.820000  0.841045
+2023-08-07 16:24:19 INFO DT have been done.
+2023-08-07 16:24:19 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:24:19 INFO DT starts to process.
+2023-08-07 16:24:31 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:24:32 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:24:32 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score  Recall  Precision   G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.809615  0.634286    0.65   0.673333  0.78496
+ecoli-0-1-4-7_vs_5-6  0.966893  0.890217  0.784957    0.80   0.795000  0.88242
+2023-08-07 16:24:32 INFO DT have been done.
+2023-08-07 16:24:32 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:24:40 INFO DT starts to process.
+2023-08-07 16:25:02 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:25:43 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:25:43 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score  Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.960714  0.886538  0.736508    0.80   0.693333  0.871539
+ecoli-0-1-4-7_vs_5-6  0.945816  0.823712  0.646667    0.68   0.641905  0.804174
+2023-08-07 16:25:43 INFO DT have been done.
+2023-08-07 16:25:43 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:25:43 INFO DT starts to process.
+2023-08-07 16:25:47 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:25:48 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:25:48 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score  Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.967857  0.867308  0.774603    0.75   0.813333  0.850541
+ecoli-0-1-4-7_vs_5-6  0.939711  0.820381  0.626407    0.68   0.619841  0.800889
+2023-08-07 16:25:48 INFO DT have been done.
+2023-08-07 16:25:48 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:25:48 INFO DT starts to process.
+2023-08-07 16:27:54 INFO DT starts to process.
+2023-08-07 16:27:55 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:28:50 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:29:09 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:30:52 INFO DT starts to process.
+2023-08-07 16:30:53 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:35:35 INFO DT starts to process.
+2023-08-07 16:35:36 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:37:07 INFO DT starts to process.
+2023-08-07 16:37:08 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:43:19 INFO DT starts to process.
+2023-08-07 16:43:19 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:43:32 INFO DT starts to process.
+2023-08-07 16:43:32 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:44:08 INFO DT starts to process.
+2023-08-07 16:44:09 DEBUG Loaded backend tkagg version 8.6.
+2023-08-07 16:44:59 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:45:11 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:45:16 INFO DT : ecoli2 has compeleted!
+2023-08-07 16:45:20 INFO DT : ecoli3 has compeleted!
+2023-08-07 16:45:20 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.740385  0.561905  0.500000   0.766667  0.689666
+ecoli-0-1-4-7_vs_5-6  0.966893  0.853496  0.764444  0.720000   0.820000  0.841045
+ecoli2                0.907726  0.821212  0.692810  0.692424   0.779918  0.795256
+ecoli3                0.913696  0.762463  0.525558  0.571429   0.650952  0.698493
+2023-08-07 16:45:20 INFO DT have been done.
+2023-08-07 16:45:20 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:45:20 INFO DT starts to process.
+2023-08-07 16:45:24 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:45:27 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:45:31 INFO DT : ecoli2 has compeleted!
+2023-08-07 16:45:35 INFO DT : ecoli3 has compeleted!
+2023-08-07 16:45:35 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.809615  0.634286  0.650000   0.673333  0.784960
+ecoli-0-1-4-7_vs_5-6  0.969923  0.910217  0.807179  0.840000   0.795000  0.903535
+ecoli2                0.913608  0.824784  0.704231  0.692424   0.798462  0.798731
+ecoli3                0.898815  0.691034  0.406211  0.428571   0.408889  0.556413
+2023-08-07 16:45:35 INFO DT have been done.
+2023-08-07 16:45:35 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:45:35 INFO DT starts to process.
+2023-08-07 16:46:50 INFO DT starts to process.
+2023-08-07 16:46:50 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:46:51 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:46:51 INFO DT : ecoli2 has compeleted!
+2023-08-07 16:46:51 INFO DT : ecoli3 has compeleted!
+2023-08-07 16:46:51 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.740385  0.561905  0.500000   0.766667  0.689666
+ecoli-0-1-4-7_vs_5-6  0.966893  0.853496  0.764444  0.720000   0.820000  0.841045
+ecoli2                0.907726  0.821212  0.692810  0.692424   0.779918  0.795256
+ecoli3                0.913696  0.762463  0.525558  0.571429   0.650952  0.698493
+2023-08-07 16:46:51 INFO DT have been done.
+2023-08-07 16:46:51 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:46:51 INFO DT starts to process.
+2023-08-07 16:46:52 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:46:52 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:46:52 INFO DT : ecoli2 has compeleted!
+2023-08-07 16:46:53 INFO DT : ecoli3 has compeleted!
+2023-08-07 16:46:53 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.809615  0.634286  0.650000   0.673333  0.784960
+ecoli-0-1-4-7_vs_5-6  0.969923  0.910217  0.807179  0.840000   0.795000  0.903535
+ecoli2                0.913608  0.824784  0.704231  0.692424   0.798462  0.798731
+ecoli3                0.898815  0.691034  0.406211  0.428571   0.408889  0.556413
+2023-08-07 16:46:53 INFO DT have been done.
+2023-08-07 16:46:53 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:46:53 INFO DT starts to process.
+2023-08-07 16:46:53 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:46:53 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:46:53 INFO DT : ecoli2 has compeleted!
+2023-08-07 16:46:54 INFO DT : ecoli3 has compeleted!
+2023-08-07 16:46:54 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.964286  0.865385  0.752381  0.750000   0.773333  0.848609
+ecoli-0-1-4-7_vs_5-6  0.942831  0.803712  0.622424  0.640000   0.627619  0.780794
+ecoli2                0.904785  0.819426  0.695186  0.692424   0.733200  0.799405
+ecoli3                0.907770  0.733891  0.453580  0.514286   0.436667  0.603149
+2023-08-07 16:46:54 INFO DT have been done.
+2023-08-07 16:46:54 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:46:54 INFO DT starts to process.
+2023-08-07 16:46:54 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 16:46:54 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 16:46:54 INFO DT : ecoli2 has compeleted!
+2023-08-07 16:46:54 INFO DT : ecoli3 has compeleted!
+2023-08-07 16:46:54 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.953571  0.836538  0.673016  0.700000   0.666667  0.813526
+ecoli-0-1-4-7_vs_5-6  0.942877  0.785378  0.608889  0.600000   0.639048  0.754532
+ecoli2                0.889860  0.825108  0.685325  0.728788   0.689464  0.813157
+ecoli3                0.910755  0.748177  0.503580  0.542857   0.636667  0.678742
+2023-08-07 16:46:54 INFO DT have been done.
+2023-08-07 16:46:54 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 16:46:54 INFO DT starts to process.
+2023-08-07 17:22:06 INFO DT starts to process.
+2023-08-07 17:22:06 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:22:07 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:22:07 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:22:07 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:22:08 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:22:08 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:22:08 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:22:08 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.740385  0.561905  0.500000   0.766667  0.689666
+ecoli-0-1-4-7_vs_5-6  0.966893  0.853496  0.764444  0.720000   0.820000  0.841045
+ecoli2                0.907726  0.821212  0.692810  0.692424   0.779918  0.795256
+ecoli3                0.913696  0.762463  0.525558  0.571429   0.650952  0.698493
+ecoli4                0.970237  0.840212  0.752857  0.690000   0.843333  0.821162
+glass-0-1-4-6_vs_2    0.878049  0.623767  0.272222  0.316667   0.250000  0.475107
+glass-0-1-6_vs_2      0.874494  0.607381  0.320000  0.283333   0.428571  0.458899
+2023-08-07 17:22:08 INFO DT have been done.
+2023-08-07 17:22:08 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 17:22:08 INFO DT starts to process.
+2023-08-07 17:22:09 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:22:09 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:22:09 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:22:10 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:22:10 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:22:11 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:22:11 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:22:11 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.953571  0.836538  0.694603  0.700000   0.713333  0.818676
+ecoli-0-1-4-7_vs_5-6  0.957802  0.885299  0.740513  0.800000   0.709286  0.877966
+ecoli2                0.898815  0.793939  0.656724  0.637879   0.765602  0.762754
+ecoli3                0.907770  0.733891  0.453580  0.514286   0.436667  0.603149
+ecoli4                0.967252  0.838625  0.731429  0.690000   0.793333  0.819782
+glass-0-1-4-6_vs_2    0.917073  0.750960  0.535238  0.550000   0.566667  0.703666
+glass-0-1-6_vs_2      0.874629  0.607381  0.314921  0.283333   0.400000  0.459235
+2023-08-07 17:22:11 INFO DT have been done.
+2023-08-07 17:22:11 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 17:22:11 INFO DT starts to process.
+2023-08-07 17:22:11 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:22:11 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:22:11 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:22:12 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:22:12 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:22:12 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:22:12 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:22:12 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.960714  0.863462  0.730159  0.750000   0.733333  0.846676
+ecoli-0-1-4-7_vs_5-6  0.945726  0.842020  0.665195  0.720000   0.648889  0.826158
+ecoli2                0.895830  0.792154  0.655512  0.637879   0.757943  0.763997
+ecoli3                0.907770  0.733891  0.453580  0.514286   0.436667  0.603149
+ecoli4                0.970237  0.840212  0.752857  0.690000   0.843333  0.821162
+glass-0-1-4-6_vs_2    0.868293  0.556958  0.164444  0.183333   0.166667  0.314544
+glass-0-1-6_vs_2      0.906208  0.616190  0.280952  0.266667   0.300000  0.388830
+2023-08-07 17:22:12 INFO DT have been done.
+2023-08-07 17:22:12 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 17:22:12 INFO DT starts to process.
+2023-08-07 17:22:12 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:22:13 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:22:13 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:22:13 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:22:13 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:22:13 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:22:13 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:22:13 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.953571  0.859615  0.690952  0.750000   0.656667  0.843052
+ecoli-0-1-4-7_vs_5-6  0.939846  0.802099  0.613333  0.640000   0.613333  0.779508
+ecoli2                0.898815  0.786634  0.655855  0.619697   0.778301  0.756326
+ecoli3                0.910755  0.748177  0.503580  0.542857   0.636667  0.678742
+ecoli4                0.970237  0.840212  0.752857  0.690000   0.843333  0.821162
+glass-0-1-4-6_vs_2    0.917073  0.773329  0.564762  0.600000   0.560000  0.734193
+glass-0-1-6_vs_2      0.890148  0.599286  0.264286  0.250000   0.283333  0.310099
+2023-08-07 17:22:13 INFO DT have been done.
+2023-08-07 17:22:13 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 17:22:13 INFO DT starts to process.
+2023-08-07 17:23:18 INFO DT starts to process.
+2023-08-07 17:23:20 INFO DT : abalone19 has compeleted!
+2023-08-07 17:23:21 INFO DT : abalone9-18 has compeleted!
+2023-08-07 17:23:21 INFO DT : dermatology-6 has compeleted!
+2023-08-07 17:23:22 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:23:22 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:23:23 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:23:23 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:23:23 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:23:24 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:23:24 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:23:24 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+abalone19             0.987543  0.497586  0.000000  0.000000   0.000000  0.000000
+abalone9-18           0.920678  0.628933  0.287164  0.300000   0.337143  0.470488
+dermatology-6         0.985994  0.898529  0.853968  0.800000   0.960000  0.886355
+ecoli-0-1-4-6_vs_5    0.957143  0.815385  0.689048  0.650000   0.783333  0.794347
+ecoli-0-1-4-7_vs_5-6  0.963863  0.888577  0.765455  0.800000   0.746190  0.881137
+ecoli2                0.910623  0.830303  0.708791  0.710606   0.750476  0.810489
+ecoli3                0.910755  0.748177  0.503580  0.542857   0.636667  0.678742
+ecoli4                0.958428  0.815451  0.680519  0.650000   0.733333  0.793508
+glass-0-1-4-6_vs_2    0.882927  0.618208  0.269841  0.300000   0.266667  0.406353
+glass-0-1-6_vs_2      0.890283  0.615952  0.324444  0.283333   0.433333  0.460695
+2023-08-07 17:23:24 INFO DT have been done.
+2023-08-07 17:23:24 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 17:23:24 INFO DT starts to process.
+2023-08-07 17:23:26 INFO DT : abalone19 has compeleted!
+2023-08-07 17:23:26 INFO DT : abalone9-18 has compeleted!
+2023-08-07 17:23:27 INFO DT : dermatology-6 has compeleted!
+2023-08-07 17:23:27 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:23:28 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:23:28 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:23:28 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:23:29 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:23:29 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:23:29 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:23:29 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+abalone19             0.985865  0.496740  0.000000  0.000000   0.000000  0.000000
+abalone9-18           0.926176  0.625627  0.308964  0.286111   0.377778  0.463946
+dermatology-6         0.985994  0.898529  0.853968  0.800000   0.960000  0.886355
+ecoli-0-1-4-6_vs_5    0.953571  0.836538  0.692222  0.700000   0.730000  0.818369
+ecoli-0-1-4-7_vs_5-6  0.954772  0.883659  0.730256  0.800000   0.695000  0.876456
+ecoli2                0.898815  0.823160  0.678718  0.710606   0.747745  0.797467
+ecoli3                0.910755  0.748177  0.503580  0.542857   0.636667  0.678742
+ecoli4                0.967252  0.838625  0.731429  0.690000   0.793333  0.819782
+glass-0-1-4-6_vs_2    0.892683  0.760028  0.485873  0.600000   0.410000  0.723770
+glass-0-1-6_vs_2      0.869501  0.604524  0.295873  0.283333   0.333333  0.457200
+2023-08-07 17:23:29 INFO DT have been done.
+2023-08-07 17:23:29 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 17:23:29 INFO DT starts to process.
+2023-08-07 17:23:33 INFO DT : abalone19 has compeleted!
+2023-08-07 17:23:33 INFO DT : abalone9-18 has compeleted!
+2023-08-07 17:23:33 INFO DT : dermatology-6 has compeleted!
+2023-08-07 17:23:34 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:23:34 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:23:34 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:23:34 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:23:34 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:23:35 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:23:35 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:23:35 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+abalone19             0.984667  0.496137  0.000000  0.000000   0.000000  0.000000
+abalone9-18           0.928870  0.656858  0.356854  0.350000   0.405556  0.571360
+dermatology-6         0.985994  0.898529  0.853968  0.800000   0.960000  0.886355
+ecoli-0-1-4-6_vs_5    0.960714  0.863462  0.730159  0.750000   0.733333  0.846676
+ecoli-0-1-4-7_vs_5-6  0.942831  0.822073  0.635758  0.680000   0.621905  0.802867
+ecoli2                0.898815  0.793939  0.666149  0.637879   0.751634  0.768104
+ecoli3                0.895830  0.689368  0.400329  0.428571   0.400000  0.555091
+ecoli4                0.970237  0.840212  0.752857  0.690000   0.843333  0.821162
+glass-0-1-4-6_vs_2    0.873171  0.559661  0.194286  0.183333   0.216667  0.322019
+glass-0-1-6_vs_2      0.885290  0.604762  0.260317  0.266667   0.263333  0.385022
+2023-08-07 17:23:35 INFO DT have been done.
+2023-08-07 17:23:35 INFO ----------------------------------------------------------------------------------------------------
+2023-08-07 17:23:35 INFO DT starts to process.
+2023-08-07 17:23:38 INFO DT : abalone19 has compeleted!
+2023-08-07 17:23:38 INFO DT : abalone9-18 has compeleted!
+2023-08-07 17:23:38 INFO DT : dermatology-6 has compeleted!
+2023-08-07 17:23:38 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-07 17:23:39 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-07 17:23:39 INFO DT : ecoli2 has compeleted!
+2023-08-07 17:23:39 INFO DT : ecoli3 has compeleted!
+2023-08-07 17:23:39 INFO DT : ecoli4 has compeleted!
+2023-08-07 17:23:39 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-08-07 17:23:39 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-08-07 17:23:40 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+abalone19             0.984907  0.496258  0.000000  0.000000   0.000000  0.000000
+abalone9-18           0.927528  0.633950  0.303126  0.302778   0.371111  0.517604
+dermatology-6         0.985994  0.898529  0.853968  0.800000   0.960000  0.886355
+ecoli-0-1-4-6_vs_5    0.960714  0.886538  0.740952  0.800000   0.706667  0.871520
+ecoli-0-1-4-7_vs_5-6  0.942831  0.840460  0.649744  0.720000   0.621905  0.824761
+ecoli2                0.901800  0.824946  0.690747  0.710606   0.751317  0.802792
+ecoli3                0.907770  0.733891  0.453580  0.514286   0.436667  0.603149
+ecoli4                0.970237  0.840212  0.752857  0.690000   0.843333  0.821162
+glass-0-1-4-6_vs_2    0.887805  0.673554  0.341429  0.416667   0.290000  0.472609
+glass-0-1-6_vs_2      0.895682  0.671429  0.334286  0.400000   0.319048  0.464933
+2023-08-07 17:23:40 INFO DT have been done.
+2023-08-07 17:23:40 INFO ----------------------------------------------------------------------------------------------------
+2023-08-08 15:08:00 INFO DT starts to process.
+2023-08-08 15:08:13 INFO DT : abalone19 has compeleted!
+2023-08-08 15:08:17 INFO DT : abalone9-18 has compeleted!
+2023-08-08 15:08:21 INFO DT : dermatology-6 has compeleted!
+2023-08-08 15:08:24 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-08 15:08:26 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-08 15:08:28 INFO DT : ecoli2 has compeleted!
+2023-08-08 15:08:31 INFO DT : ecoli3 has compeleted!
+2023-08-08 23:04:04 INFO DT starts to process.
+2023-08-08 23:04:18 INFO DT : abalone19 has compeleted!
+2023-08-08 23:04:23 INFO DT : abalone9-18 has compeleted!
+2023-08-08 23:04:26 INFO DT : dermatology-6 has compeleted!
+2023-08-08 23:04:29 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-08 23:04:32 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-08 23:04:34 INFO DT : ecoli2 has compeleted!
+2023-08-08 23:04:37 INFO DT : ecoli3 has compeleted!
+2023-08-09 10:27:03 INFO DT starts to process.
+2023-08-09 10:27:16 INFO DT : abalone19 has compeleted!
+2023-08-09 10:27:20 INFO DT : abalone9-18 has compeleted!
+2023-08-09 10:28:10 INFO DT starts to process.
+2023-08-09 10:28:23 INFO DT : abalone19 has compeleted!
+2023-08-09 10:28:26 INFO DT : abalone9-18 has compeleted!
+2023-08-09 10:28:29 INFO DT : dermatology-6 has compeleted!
+2023-08-09 10:28:32 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-08-09 10:28:34 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-08-09 10:28:37 INFO DT : ecoli2 has compeleted!
+2023-08-09 10:28:39 INFO DT : ecoli3 has compeleted!
+2023-08-09 10:34:46 INFO DT starts to process.
+2023-08-09 10:34:48 INFO DT : ecoli2 has compeleted!
+2023-08-09 10:34:50 INFO DT : ecoli3 has compeleted!

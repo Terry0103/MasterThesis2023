@@ -1,0 +1,1315 @@
+2023-07-04 15:50:58 INFO MLP starts to process.
+2023-07-04 15:51:44 INFO MLP starts to process.
+2023-07-04 15:51:47 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 16:08:40 INFO MLP starts to process.
+2023-07-04 16:09:36 INFO MLP starts to process.
+2023-07-04 16:09:39 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 16:10:58 INFO MLP starts to process.
+2023-07-04 16:11:01 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 16:14:38 INFO MLP starts to process.
+2023-07-04 16:14:41 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 16:20:14 INFO MLP starts to process.
+2023-07-04 16:20:17 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 16:21:01 INFO MLP starts to process.
+2023-07-04 16:21:04 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:26:52 INFO MLP starts to process.
+2023-07-04 17:27:55 INFO MLP starts to process.
+2023-07-04 17:29:35 INFO MLP starts to process.
+2023-07-04 17:30:07 INFO MLP starts to process.
+2023-07-04 17:38:05 INFO MLP starts to process.
+2023-07-04 17:38:06 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:38:06 INFO MLP : ecoli2 has compeleted!
+2023-07-04 17:38:06 INFO MLP : ecoli3 has compeleted!
+2023-07-04 17:38:06 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score  Recall  Precision    G-mean
+ecoli-0-1-4-7_vs_5-6  0.894708  0.538926       0.1    0.12    0.10303  0.204915
+ecoli2                0.833363  0.500000       0.0    0.00    0.00000  0.000000
+ecoli3                0.895830  0.500000       0.0    0.00    0.00000  0.000000
+2023-07-04 17:38:06 INFO MLP have been done.
+2023-07-04 17:38:06 INFO ----------------------------------------------------------------------------------------------------
+2023-07-04 17:38:52 INFO MLP starts to process.
+2023-07-04 17:38:52 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:38:53 INFO MLP : ecoli2 has compeleted!
+2023-07-04 17:38:53 INFO MLP : ecoli3 has compeleted!
+2023-07-04 17:38:53 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score  Recall  Precision    G-mean
+ecoli-0-1-4-7_vs_5-6  0.894708  0.538926       0.1    0.12    0.10303  0.204915
+ecoli2                0.833363  0.500000       0.0    0.00    0.00000  0.000000
+ecoli3                0.895830  0.500000       0.0    0.00    0.00000  0.000000
+2023-07-04 17:38:53 INFO MLP have been done.
+2023-07-04 17:38:53 INFO ----------------------------------------------------------------------------------------------------
+2023-07-04 17:39:32 INFO MLP starts to process.
+2023-07-04 17:39:34 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:40:16 INFO MLP starts to process.
+2023-07-04 17:40:16 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:16 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:16 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:16 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:17 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:17 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:40:17 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:17 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:17 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:17 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:17 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:18 INFO MLP : ecoli2 has compeleted!
+2023-07-04 17:40:18 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:18 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:18 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:18 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:18 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:40:18 INFO MLP : ecoli3 has compeleted!
+2023-07-04 17:40:18 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-7_vs_5-6  0.885527  0.882993  0.541143  0.880000   0.393001  0.881730
+ecoli2                0.732309  0.766234  0.506018  0.818182   0.371699  0.758071
+ecoli3                0.767867  0.857818  0.466759  0.971429   0.307739  0.849522
+2023-07-04 17:40:18 INFO MLP have been done.
+2023-07-04 17:40:18 INFO ----------------------------------------------------------------------------------------------------
+2023-07-04 17:43:33 INFO MLP starts to process.
+2023-07-04 17:43:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:34 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:43:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:35 INFO MLP : ecoli2 has compeleted!
+2023-07-04 17:43:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:43:35 INFO MLP : ecoli3 has compeleted!
+2023-07-04 17:43:35 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-7_vs_5-6  0.885527  0.882993  0.541143  0.880000   0.393001  0.881730
+ecoli2                0.732309  0.766234  0.506018  0.818182   0.371699  0.758071
+ecoli3                0.767867  0.857818  0.466759  0.971429   0.307739  0.849522
+2023-07-04 17:43:35 INFO MLP have been done.
+2023-07-04 17:43:35 INFO ----------------------------------------------------------------------------------------------------
+2023-07-04 17:44:13 INFO MLP starts to process.
+2023-07-04 17:44:16 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:45:03 INFO MLP starts to process.
+2023-07-04 17:45:06 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:46:00 INFO MLP starts to process.
+2023-07-04 17:46:02 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:47:14 INFO MLP starts to process.
+2023-07-04 17:47:16 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:49:32 INFO MLP starts to process.
+2023-07-04 17:49:35 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:49:45 INFO MLP starts to process.
+2023-07-04 17:49:48 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:50:56 INFO MLP starts to process.
+2023-07-04 17:50:59 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:51:11 INFO MLP starts to process.
+2023-07-04 17:51:14 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:51:42 INFO MLP starts to process.
+2023-07-04 17:51:45 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:52:42 INFO MLP starts to process.
+2023-07-04 17:52:45 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:54:36 INFO MLP starts to process.
+2023-07-04 17:54:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:54:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:54:47 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:54:52 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:54:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:03 INFO MLP : abalone19 has compeleted!
+2023-07-04 17:55:03 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:03 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:04 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:05 INFO MLP : abalone9-18 has compeleted!
+2023-07-04 17:55:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:06 INFO MLP : dermatology-6 has compeleted!
+2023-07-04 17:55:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO MLP : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:08 INFO MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:55:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:08 INFO MLP : ecoli2 has compeleted!
+2023-07-04 17:55:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:09 INFO MLP : ecoli3 has compeleted!
+2023-07-04 17:55:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO MLP : ecoli4 has compeleted!
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO MLP : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO MLP : glass-0-1-6_vs_2 has compeleted!
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:11 INFO MLP : glass-0-1-6_vs_5 has compeleted!
+2023-07-04 17:55:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO MLP : glass-0-4_vs_5 has compeleted!
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO MLP : glass-0-6_vs_5 has compeleted!
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO MLP : glass2 has compeleted!
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO MLP : glass4 has compeleted!
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO MLP : new-thyroid1 has compeleted!
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:15 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:15 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:15 INFO MLP : newthyroid2 has compeleted!
+2023-07-04 17:55:15 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:18 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:19 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:20 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:21 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:24 INFO MLP : page-blocks0 has compeleted!
+2023-07-04 17:55:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:25 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:27 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:28 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:29 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:30 INFO MLP : poker-8_vs_6 has compeleted!
+2023-07-04 17:55:30 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:30 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:30 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:30 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:30 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:30 INFO MLP : poker-9_vs_7 has compeleted!
+2023-07-04 17:55:31 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:32 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:36 INFO MLP : segment0 has compeleted!
+2023-07-04 17:55:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:39 INFO MLP : shuttle-2_vs_5 has compeleted!
+2023-07-04 17:55:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:39 INFO MLP : shuttle-6_vs_2-3 has compeleted!
+2023-07-04 17:55:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:42 INFO MLP : shuttle-c0-vs-c4 has compeleted!
+2023-07-04 17:55:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:42 INFO MLP : shuttle-c2-vs-c4 has compeleted!
+2023-07-04 17:55:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:44 INFO MLP : vowel0 has compeleted!
+2023-07-04 17:55:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:46 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:46 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:46 INFO MLP : winequality-red-3_vs_5 has compeleted!
+2023-07-04 17:55:47 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:47 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:48 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:49 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:50 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:51 INFO MLP : winequality-red-4 has compeleted!
+2023-07-04 17:55:51 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:51 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:52 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:52 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:53 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:53 INFO MLP : winequality-red-8_vs_6-7 has compeleted!
+2023-07-04 17:55:53 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:53 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:54 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:54 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:54 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:55 INFO MLP : winequality-red-8_vs_6 has compeleted!
+2023-07-04 17:55:55 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:55 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:56 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:58 INFO MLP : winequality-white-3-9_vs_5 has compeleted!
+2023-07-04 17:55:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:59 INFO MLP : yeast-0-2-5-7-9_vs_3-6-8 has compeleted!
+2023-07-04 17:55:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:55:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:00 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:00 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:00 INFO MLP : yeast-0-3-5-9_vs_7-8 has compeleted!
+2023-07-04 17:56:00 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:00 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:00 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:01 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:01 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:01 INFO MLP : yeast-1_vs_7 has compeleted!
+2023-07-04 17:56:01 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:01 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:01 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:02 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:02 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:02 INFO MLP : yeast-2_vs_4 has compeleted!
+2023-07-04 17:56:02 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:02 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:02 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:02 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:02 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:03 INFO MLP : yeast-2_vs_8 has compeleted!
+2023-07-04 17:56:03 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:03 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:04 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:04 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:04 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:04 INFO MLP : yeast3 has compeleted!
+2023-07-04 17:56:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:06 INFO MLP : yeast5 has compeleted!
+2023-07-04 17:56:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:09 INFO MLP : yeast6 has compeleted!
+2023-07-04 17:56:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:09 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:56:10 INFO MLP : zoo-3 has compeleted!
+2023-07-04 17:56:10 INFO Evaluation outcome : 
+                             Accuracy       AUC  F1-score    Recall  Precision    G-mean
+abalone19                   0.840920  0.728433  0.058557  0.614286   0.030796  0.710655
+abalone9-18                 0.797456  0.743597  0.285268  0.683333   0.183282  0.722895
+dermatology-6               0.972027  0.985184  0.812121  1.000000   0.694286  0.985026
+ecoli-0-1-4-6_vs_5          0.892857  0.896154  0.547925  0.900000   0.399711  0.892987
+ecoli-0-1-4-7_vs_5-6        0.864360  0.871544  0.500322  0.880000   0.351036  0.870567
+ecoli2                      0.740694  0.750433  0.525312  0.765152   0.420249  0.741511
+ecoli3                      0.761940  0.841893  0.454316  0.942857   0.301703  0.832140
+ecoli4                      0.785645  0.825323  0.364396  0.870000   0.239990  0.818693
+glass-0-1-4-6_vs_2          0.487805  0.540114  0.112185  0.600000   0.062546  0.206815
+glass-0-1-6_vs_2            0.405668  0.582857  0.179516  0.800000   0.102153  0.358413
+glass-0-1-6_vs_5            0.880030  0.890000  0.425397  0.900000   0.288333  0.881796
+glass-0-4_vs_5              0.544444  0.662500  0.287719  0.800000   0.192164  0.360555
+glass-0-6_vs_5              0.425974  0.500000  0.100000  0.600000   0.054545  0.000000
+glass2                      0.421705  0.503782  0.105152  0.600000   0.057656  0.267512
+glass4                      0.850720  0.825183  0.370588  0.800000   0.244069  0.726114
+new-thyroid1                0.958140  0.975000  0.902924  1.000000   0.843939  0.974154
+newthyroid2                 0.967442  0.980556  0.913039  1.000000   0.845556  0.980256
+page-blocks0                0.959616  0.888690  0.802804  0.799566   0.809646  0.883826
+poker-8_vs_6                0.915357  0.924201  0.221055  0.933333   0.128222  0.921322
+poker-9_vs_7                0.733503  0.523227  0.101587  0.300000   0.061905  0.309539
+segment0                    0.993066  0.989644  0.976005  0.984848   0.967597  0.989619
+shuttle-2_vs_5              0.999397  0.999694  0.980952  1.000000   0.963636  0.999694
+shuttle-6_vs_2-3            0.991304  0.995455  0.920000  1.000000   0.866667  0.995428
+shuttle-c0-vs-c4            0.995077  0.989949  0.964232  0.984000   0.946701  0.989870
+shuttle-c2-vs-c4            0.976615  0.987667  0.826667  1.000000   0.733333  0.987537
+vowel0                      0.924094  0.943243  0.698909  0.966667   0.548317  0.942323
+winequality-red-3_vs_5      0.875571  0.592014  0.052964  0.300000   0.029048  0.316753
+winequality-red-4           0.810511  0.592102  0.103686  0.358182   0.061129  0.515788
+winequality-red-8_vs_6-7    0.835088  0.508105  0.040000  0.166667   0.022917  0.289991
+winequality-red-8_vs_6      0.791210  0.487806  0.033987  0.166667   0.018952  0.224780
+winequality-white-3-9_vs_5  0.860991  0.634449  0.089803  0.400000   0.051261  0.570749
+yeast-0-2-5-7-9_vs_3-6-8    0.900403  0.890855  0.635084  0.878947   0.497763  0.889505
+yeast-0-3-5-9_vs_7-8        0.826131  0.645344  0.329843  0.420000   0.287884  0.600975
+yeast-1_vs_7                0.740755  0.721806  0.264639  0.700000   0.163782  0.718600
+yeast-2_vs_4                0.910508  0.871846  0.650399  0.823636   0.542821  0.869959
+yeast-2_vs_8                0.975150  0.819600  0.640000  0.650000   0.753333  0.768608
+yeast3                      0.884098  0.867952  0.616645  0.847159   0.488583  0.866490
+yeast5                      0.921160  0.959375  0.433269  1.000000   0.277513  0.958484
+yeast6                      0.876028  0.866815  0.248092  0.857143   0.145713  0.863750
+zoo-3                       0.667143  0.730263  0.217974  0.800000   0.132738  0.613559
+2023-07-04 17:56:10 INFO MLP have been done.
+2023-07-04 17:56:10 INFO ----------------------------------------------------------------------------------------------------
+2023-07-04 17:59:32 INFO DT starts to process.
+2023-07-04 17:59:32 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:32 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:32 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:32 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:32 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO DT : abalone19 has compeleted!
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO DT : abalone9-18 has compeleted!
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO DT : dermatology-6 has compeleted!
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO DT : ecoli2 has compeleted!
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO DT : ecoli3 has compeleted!
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO DT : ecoli4 has compeleted!
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO DT : glass-0-1-6_vs_5 has compeleted!
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO DT : glass-0-4_vs_5 has compeleted!
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO DT : glass-0-6_vs_5 has compeleted!
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO DT : glass2 has compeleted!
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO DT : glass4 has compeleted!
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO DT : new-thyroid1 has compeleted!
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:36 INFO DT : newthyroid2 has compeleted!
+2023-07-04 17:59:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:37 INFO DT : page-blocks0 has compeleted!
+2023-07-04 17:59:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO DT : poker-8_vs_6 has compeleted!
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO DT : poker-9_vs_7 has compeleted!
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO DT : segment0 has compeleted!
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO DT : shuttle-2_vs_5 has compeleted!
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:39 INFO DT : shuttle-6_vs_2-3 has compeleted!
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO DT : shuttle-c0-vs-c4 has compeleted!
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO DT : shuttle-c2-vs-c4 has compeleted!
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO DT : vowel0 has compeleted!
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO DT : winequality-red-3_vs_5 has compeleted!
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO DT : winequality-red-4 has compeleted!
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO DT : winequality-red-8_vs_6-7 has compeleted!
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO DT : winequality-red-8_vs_6 has compeleted!
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:42 INFO DT : winequality-white-3-9_vs_5 has compeleted!
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO DT : yeast-0-2-5-7-9_vs_3-6-8 has compeleted!
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO DT : yeast-0-3-5-9_vs_7-8 has compeleted!
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO DT : yeast-1_vs_7 has compeleted!
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO DT : yeast-2_vs_4 has compeleted!
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO DT : yeast-2_vs_8 has compeleted!
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO DT : yeast3 has compeleted!
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO DT : yeast5 has compeleted!
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO DT : yeast6 has compeleted!
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-04 17:59:45 INFO DT : zoo-3 has compeleted!
+2023-07-04 17:59:45 INFO Evaluation outcome : 
+                             Accuracy       AUC  F1-score    Recall  Precision    G-mean
+abalone19                   0.924535  0.527258  0.025082  0.123810   0.014040  0.256732
+abalone9-18                 0.850918  0.704148  0.285467  0.538889   0.197014  0.667845
+dermatology-6               0.994405  0.973529  0.949206  0.950000   0.960000  0.971729
+ecoli-0-1-4-6_vs_5          0.960714  0.932692  0.768889  0.900000   0.680000  0.925630
+ecoli-0-1-4-7_vs_5-6        0.954817  0.791830  0.633810  0.600000   0.736190  0.743200
+ecoli2                      0.901712  0.890693  0.748894  0.874242   0.657778  0.890106
+ecoli3                      0.907682  0.809606  0.606111  0.685714   0.546465  0.793233
+ecoli4                      0.946488  0.850952  0.651215  0.740000   0.685714  0.833973
+glass-0-1-4-6_vs_2          0.897561  0.662506  0.314343  0.383333   0.380952  0.446186
+glass-0-1-6_vs_2            0.874899  0.607381  0.302222  0.283333   0.346667  0.459717
+glass-0-1-6_vs_5            0.983784  0.944286  0.853333  0.900000   0.866667  0.935666
+glass-0-4_vs_5              0.989474  0.994118  0.960000  1.000000   0.933333  0.994029
+glass-0-6_vs_5              0.990909  0.995000  0.960000  1.000000   0.933333  0.994936
+glass2                      0.882946  0.617051  0.268889  0.300000   0.266667  0.467592
+glass4                      0.943632  0.891911  0.667143  0.833333   0.626667  0.882393
+new-thyroid1                0.981395  0.977381  0.946282  0.971429   0.930556  0.976732
+newthyroid2                 0.944186  0.943651  0.854035  0.942857   0.791667  0.942689
+page-blocks0                0.971309  0.922987  0.859704  0.862259   0.857717  0.920759
+poker-8_vs_6                0.995939  0.849658  0.774286  0.700000   0.933333  0.819948
+poker-9_vs_7                0.917942  0.522562  0.100000  0.100000   0.100000  0.139909
+segment0                    0.990466  0.984340  0.967107  0.975758   0.959564  0.984246
+shuttle-2_vs_5              1.000000  1.000000  1.000000  1.000000   1.000000  1.000000
+shuttle-6_vs_2-3            0.995652  0.997727  0.960000  1.000000   0.933333  0.997714
+shuttle-c0-vs-c4            1.000000  1.000000  1.000000  1.000000   1.000000  1.000000
+shuttle-c2-vs-c4            1.000000  1.000000  1.000000  1.000000   1.000000  1.000000
+vowel0                      0.980777  0.974429  0.902865  0.966667   0.849474  0.974146
+winequality-red-3_vs_5      0.930591  0.472129  0.000000  0.000000   0.000000  0.000000
+winequality-red-4           0.879295  0.564476  0.108902  0.227273   0.071877  0.441499
+winequality-red-8_vs_6-7    0.865497  0.645637  0.127953  0.416667   0.076859  0.535279
+winequality-red-8_vs_6      0.871929  0.691209  0.171204  0.500000   0.104878  0.649446
+winequality-white-3-9_vs_5  0.925091  0.686707  0.162952  0.440000   0.100431  0.625690
+yeast-0-2-5-7-9_vs_3-6-8    0.944234  0.851846  0.723131  0.736842   0.717691  0.842862
+yeast-0-3-5-9_vs_7-8        0.897204  0.649145  0.389318  0.340000   0.484805  0.560838
+yeast-1_vs_7                0.878022  0.671222  0.322084  0.433333   0.258718  0.614499
+yeast-2_vs_4                0.920293  0.841512  0.668364  0.743636   0.632049  0.834492
+yeast-2_vs_8                0.968943  0.816374  0.631169  0.650000   0.647619  0.781239
+yeast3                      0.933281  0.800861  0.668340  0.631250   0.724132  0.778382
+yeast5                      0.971026  0.810069  0.560000  0.638889   0.534286  0.783882
+yeast6                      0.969683  0.705664  0.399375  0.428571   0.437143  0.640963
+zoo-3                       0.950000  0.594737  0.200000  0.200000   0.200000  0.200000
+2023-07-04 17:59:45 INFO DT have been done.
+2023-07-04 17:59:45 INFO ----------------------------------------------------------------------------------------------------
+2023-07-05 10:06:09 INFO DT starts to process.
+2023-07-05 10:06:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:10 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:10 INFO DT : abalone19 has compeleted!
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO DT : abalone9-18 has compeleted!
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO DT : dermatology-6 has compeleted!
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:11 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-05 10:06:11 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO DT : ecoli2 has compeleted!
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO DT : ecoli3 has compeleted!
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:12 INFO DT : ecoli4 has compeleted!
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO DT : glass-0-1-6_vs_5 has compeleted!
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:13 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:14 INFO DT : glass-0-4_vs_5 has compeleted!
+2023-07-05 10:06:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:14 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 10:06:21 INFO DT starts to process.
+2023-07-05 10:06:47 INFO DT starts to process.
+2023-07-05 10:06:48 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:07:13 INFO DT starts to process.
+2023-07-05 10:07:14 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:11:00 INFO DT starts to process.
+2023-07-05 10:11:01 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:11:43 INFO DT starts to process.
+2023-07-05 10:11:44 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:27:12 INFO DT starts to process.
+2023-07-05 10:27:13 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:27:54 INFO DT starts to process.
+2023-07-05 10:27:55 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:30:56 INFO DT starts to process.
+2023-07-05 10:30:56 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:37:16 INFO DT starts to process.
+2023-07-05 10:37:17 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:38:06 INFO DT starts to process.
+2023-07-05 10:38:07 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:39:27 INFO DT starts to process.
+2023-07-05 10:39:28 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:41:08 INFO DT starts to process.
+2023-07-05 10:41:54 INFO DT starts to process.
+2023-07-05 10:41:55 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:43:42 INFO DT starts to process.
+2023-07-05 10:43:43 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:45:00 INFO DT starts to process.
+2023-07-05 10:45:01 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:45:48 INFO DT starts to process.
+2023-07-05 10:45:49 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:46:24 INFO DT starts to process.
+2023-07-05 10:46:25 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:52:11 INFO DT starts to process.
+2023-07-05 10:52:11 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:52:52 INFO DT starts to process.
+2023-07-05 10:52:53 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 10:53:31 INFO DT starts to process.
+2023-07-05 10:53:32 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 11:00:56 INFO DT starts to process.
+2023-07-05 11:00:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:42 INFO DT starts to process.
+2023-07-05 11:01:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO DT : abalone19 has compeleted!
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO DT : abalone9-18 has compeleted!
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:43 INFO DT : dermatology-6 has compeleted!
+2023-07-05 11:01:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO DT : ecoli2 has compeleted!
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:44 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:45 INFO DT : ecoli3 has compeleted!
+2023-07-05 11:01:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:01:45 INFO DT : ecoli4 has compeleted!
+2023-07-05 11:01:45 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:04 INFO DT starts to process.
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO DT : abalone19 has compeleted!
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:05 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO DT : abalone9-18 has compeleted!
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO DT : dermatology-6 has compeleted!
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:06 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-05 11:03:06 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO DT : ecoli2 has compeleted!
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO DT : ecoli3 has compeleted!
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO DT : ecoli4 has compeleted!
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:07 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-05 11:03:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:08 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-05 11:03:08 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-07-11 16:58:33 INFO DT starts to process.
+2023-07-11 16:58:33 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO DT : abalone19 has compeleted!
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO DT : abalone9-18 has compeleted!
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:34 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO DT : dermatology-6 has compeleted!
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:35 INFO DT : ecoli2 has compeleted!
+2023-07-11 16:58:35 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO DT : ecoli3 has compeleted!
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO DT : ecoli4 has compeleted!
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:36 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO DT : glass-0-1-6_vs_5 has compeleted!
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO DT : glass-0-4_vs_5 has compeleted!
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO DT : glass-0-6_vs_5 has compeleted!
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:37 INFO DT : glass2 has compeleted!
+2023-07-11 16:58:37 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO DT : glass4 has compeleted!
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO DT : new-thyroid1 has compeleted!
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:38 INFO DT : newthyroid2 has compeleted!
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO DT : page-blocks0 has compeleted!
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:39 INFO DT : poker-8_vs_6 has compeleted!
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO DT : poker-9_vs_7 has compeleted!
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:40 INFO DT : segment0 has compeleted!
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO DT : shuttle-2_vs_5 has compeleted!
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO DT : shuttle-6_vs_2-3 has compeleted!
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO DT : shuttle-c0-vs-c4 has compeleted!
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO DT : shuttle-c2-vs-c4 has compeleted!
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO DT : vowel0 has compeleted!
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:43 INFO DT : winequality-red-3_vs_5 has compeleted!
+2023-07-11 16:58:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:58:43 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-11 16:59:32 INFO DT starts to process.
+2023-07-11 17:00:02 INFO DT : abalone19 has compeleted!
+2023-07-11 17:00:04 INFO DT : abalone9-18 has compeleted!
+2023-07-11 17:08:18 INFO DT starts to process.
+2023-07-11 17:08:26 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-11 17:08:38 INFO DT starts to process.
+2023-07-11 17:08:46 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-11 17:08:56 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-11 17:09:49 INFO DT starts to process.
+2023-07-11 17:10:02 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-11 17:10:04 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-11 17:12:32 INFO DT starts to process.
+2023-07-11 17:12:45 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 15:24:57 INFO DT starts to process.
+2023-07-12 15:25:10 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 15:25:12 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 15:56:39 INFO DT starts to process.
+2023-07-12 15:56:53 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 15:56:55 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 15:58:48 INFO DT starts to process.
+2023-07-12 15:59:02 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 15:59:05 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 16:06:22 INFO DT starts to process.
+2023-07-12 16:06:36 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 16:06:38 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 16:10:38 INFO DT starts to process.
+2023-07-12 16:10:51 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 16:10:53 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 16:13:23 INFO DT starts to process.
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:23 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO DT : ecoli2 has compeleted!
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO DT : ecoli3 has compeleted!
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO DT : ecoli4 has compeleted!
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:24 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:25 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-12 16:13:25 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:25 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:25 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:25 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:25 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:13:25 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-07-12 16:13:25 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.950000  0.903846  0.734603  0.850000   0.693333  0.894710
+ecoli-0-1-4-7_vs_5-6  0.966802  0.871856  0.738788  0.760000   0.836190  0.839526
+ecoli2                0.877831  0.869102  0.701968  0.856061   0.598336  0.868209
+ecoli3                0.907814  0.847518  0.630660  0.771429   0.541053  0.837517
+ecoli4                0.961326  0.882302  0.724502  0.790000   0.766667  0.866066
+glass-0-1-4-6_vs_2    0.892683  0.721136  0.380855  0.516667   0.422222  0.594928
+glass-0-1-6_vs_2      0.848448  0.593095  0.256667  0.283333   0.268571  0.449662
+2023-07-12 16:13:25 INFO DT have been done.
+2023-07-12 16:13:25 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 16:14:40 INFO KNN starts to process.
+2023-07-12 16:14:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:40 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO KNN : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO KNN : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO KNN : ecoli2 has compeleted!
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:41 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO KNN : ecoli3 has compeleted!
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO KNN : ecoli4 has compeleted!
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO KNN : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 16:14:42 INFO KNN : glass-0-1-6_vs_2 has compeleted!
+2023-07-12 16:14:42 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.953571  0.905769  0.736667  0.850000   0.670000  0.901661
+ecoli-0-1-4-7_vs_5-6  0.951832  0.900460  0.728531  0.840000   0.650476  0.897509
+ecoli2                0.919535  0.901407  0.783492  0.874242   0.720302  0.899214
+ecoli3                0.869096  0.838579  0.559051  0.800000   0.438929  0.832911
+ecoli4                0.967208  0.927302  0.784343  0.880000   0.774286  0.920938
+glass-0-1-4-6_vs_2    0.824390  0.661143  0.323077  0.466667   0.287475  0.621794
+glass-0-1-6_vs_2      0.817814  0.667381  0.311111  0.483333   0.234444  0.629491
+2023-07-12 16:14:42 INFO KNN have been done.
+2023-07-12 16:14:42 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:08:57 INFO KNN starts to process.
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO KNN : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:57 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO KNN : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO KNN : ecoli2 has compeleted!
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO KNN : ecoli3 has compeleted!
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO KNN : ecoli4 has compeleted!
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:58 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO KNN : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO ROSE: Running sampling via ('ROSE', "{'proportion': 1.0, 'random_state': 777, 'class_name': 'ROSE'}")
+2023-07-12 17:08:59 INFO KNN : glass-0-1-6_vs_2 has compeleted!
+2023-07-12 17:08:59 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.953571  0.905769  0.736667  0.850000   0.670000  0.901661
+ecoli-0-1-4-7_vs_5-6  0.951832  0.900460  0.728531  0.840000   0.650476  0.897509
+ecoli2                0.919535  0.901407  0.783492  0.874242   0.720302  0.899214
+ecoli3                0.869096  0.838579  0.559051  0.800000   0.438929  0.832911
+ecoli4                0.967208  0.927302  0.784343  0.880000   0.774286  0.920938
+glass-0-1-4-6_vs_2    0.824390  0.661143  0.323077  0.466667   0.287475  0.621794
+glass-0-1-6_vs_2      0.817814  0.667381  0.311111  0.483333   0.234444  0.629491
+2023-07-12 17:08:59 INFO KNN have been done.
+2023-07-12 17:08:59 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:09:16 INFO DT starts to process.
+2023-07-12 17:09:29 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 17:09:31 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 17:11:18 INFO DT starts to process.
+2023-07-12 17:12:59 INFO DT starts to process.
+2023-07-12 17:13:00 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 17:13:03 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 17:13:07 INFO DT : ecoli2 has compeleted!
+2023-07-12 17:13:11 INFO DT : ecoli3 has compeleted!
+2023-07-12 17:13:12 INFO DT : ecoli4 has compeleted!
+2023-07-12 17:13:14 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-12 17:13:16 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-07-12 17:13:16 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.946429  0.855769  0.702625  0.750000   0.696667  0.844924
+ecoli-0-1-4-7_vs_5-6  0.924695  0.849090  0.612015  0.760000   0.524286  0.836915
+ecoli2                0.806804  0.833550  0.615466  0.874242   0.490104  0.830076
+ecoli3                0.895874  0.866171  0.628130  0.828571   0.521944  0.859594
+ecoli4                0.928534  0.901615  0.621212  0.870000   0.500000  0.898585
+glass-0-1-4-6_vs_2    0.795122  0.743018  0.369697  0.683333   0.263422  0.725826
+glass-0-1-6_vs_2      0.838057  0.797857  0.460606  0.750000   0.336508  0.786821
+2023-07-12 17:13:16 INFO DT have been done.
+2023-07-12 17:13:16 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:14:35 INFO DT starts to process.
+2023-07-12 17:14:36 INFO DT : ecoli-0-1-4-6_vs_5 has compeleted!
+2023-07-12 17:14:39 INFO DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+2023-07-12 17:14:45 INFO DT : ecoli2 has compeleted!
+2023-07-12 17:14:48 INFO DT : ecoli3 has compeleted!
+2023-07-12 17:14:51 INFO DT : ecoli4 has compeleted!
+2023-07-12 17:14:52 INFO DT : glass-0-1-4-6_vs_2 has compeleted!
+2023-07-12 17:14:54 INFO DT : glass-0-1-6_vs_2 has compeleted!
+2023-07-12 17:14:54 INFO Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean
+ecoli-0-1-4-6_vs_5    0.950000  0.834615  0.685714  0.700000   0.708333  0.816603
+ecoli-0-1-4-7_vs_5-6  0.918725  0.864199  0.608803  0.800000   0.500000  0.861685
+ecoli2                0.788850  0.815530  0.588199  0.856061   0.459524  0.811425
+ecoli3                0.853995  0.830137  0.538201  0.800000   0.409091  0.828643
+ecoli4                0.907902  0.872066  0.551313  0.830000   0.428205  0.866189
+glass-0-1-4-6_vs_2    0.829268  0.702881  0.331111  0.550000   0.241905  0.598701
+glass-0-1-6_vs_2      0.801889  0.725238  0.367879  0.633333   0.262482  0.713843
+2023-07-12 17:14:54 INFO DT have been done.
+2023-07-12 17:14:54 INFO ----------------------------------------------------------------------------------------------------
+2023-07-12 17:16:03 INFO DT starts to process.
+2023-07-12 17:48:51 INFO DT starts to process.
+2023-07-12 17:49:29 INFO DT : abalone19 has compeleted!
+2023-07-12 17:49:34 INFO DT : abalone9-18 has compeleted!
