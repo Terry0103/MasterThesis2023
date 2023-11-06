@@ -1,0 +1,492 @@
+__main__: 2023-11-06 16:47:27: INFO: DT starts to process.
+__main__: 2023-11-06 16:47:28: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:47:30: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:47:31: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:47:32: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:47:32: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean   ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.903846  0.720909  0.850000   0.645238  0.895695  0.000000
+ecoli-0-1-4-7_vs_5-6  0.963908  0.870243  0.762020  0.760000   0.776667  0.861868  0.000000
+ecoli2                0.874846  0.823485  0.652206  0.746970   0.596117  0.806306  0.000000
+ecoli3                0.913652  0.762408  0.545758  0.571429   0.604359  0.710273  1.474998
+__main__: 2023-11-06 16:47:32: INFO: DT have been done.
+__main__: 2023-11-06 16:47:32: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:47:32: INFO: RF starts to process.
+__main__: 2023-11-06 16:47:51: INFO: DT starts to process.
+__main__: 2023-11-06 16:47:53: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:47:54: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:47:56: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:47:57: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:47:57: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean  ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.903846  0.720909  0.850000   0.645238  0.895695  0.00000
+ecoli-0-1-4-7_vs_5-6  0.963908  0.870243  0.762020  0.760000   0.776667  0.861868  0.00000
+ecoli2                0.874846  0.823485  0.652206  0.746970   0.596117  0.806306  0.00000
+ecoli3                0.913652  0.762408  0.545758  0.571429   0.604359  0.710273  1.51501
+__main__: 2023-11-06 16:47:57: INFO: DT have been done.
+__main__: 2023-11-06 16:47:57: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:47:57: INFO: RF starts to process.
+__main__: 2023-11-06 16:48:12: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:48:27: INFO: RF : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:48:40: INFO: RF : ecoli2 has compeleted!
+__main__: 2023-11-06 16:48:54: INFO: RF : ecoli3 has compeleted!
+__main__: 2023-11-06 16:48:54: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean    ExeTime
+ecoli-0-1-4-6_vs_5    0.957143  0.861538  0.711905  0.750000   0.716667  0.843795   0.000000
+ecoli-0-1-4-7_vs_5-6  0.957847  0.848577  0.717576  0.720000   0.726667  0.836600   0.000000
+ecoli2                0.892976  0.835714  0.701525  0.750000   0.675962  0.828695   0.000000
+ecoli3                0.913652  0.749817  0.534890  0.542857   0.638889  0.690813  13.959915
+__main__: 2023-11-06 16:48:54: INFO: RF have been done.
+__main__: 2023-11-06 16:48:54: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:48:54: INFO: MLP starts to process.
+__main__: 2023-11-06 16:48:58: INFO: MLP : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:49:04: INFO: MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:49:07: INFO: MLP : ecoli2 has compeleted!
+__main__: 2023-11-06 16:49:11: INFO: MLP : ecoli3 has compeleted!
+__main__: 2023-11-06 16:49:11: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean  ExeTime
+ecoli-0-1-4-6_vs_5    0.932143  0.801923  0.557998  0.650000   0.515556  0.763617    0.000
+ecoli-0-1-4-7_vs_5-6  0.927725  0.887451  0.647619  0.840000   0.533045  0.885492    0.000
+ecoli2                0.577217  0.499838  0.155009  0.381818   0.107222  0.261943    0.000
+ecoli3                0.824495  0.813689  0.474872  0.800000   0.356686  0.791715    3.644
+__main__: 2023-11-06 16:49:11: INFO: MLP have been done.
+__main__: 2023-11-06 16:49:11: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:49:11: INFO: NB starts to process.
+__main__: 2023-11-06 16:49:12: INFO: NB : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:49:14: INFO: NB : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:49:15: INFO: NB : ecoli2 has compeleted!
+__main__: 2023-11-06 16:49:16: INFO: NB : ecoli3 has compeleted!
+__main__: 2023-11-06 16:49:16: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean   ExeTime
+ecoli-0-1-4-6_vs_5    0.960714  0.817308  0.693853  0.650000   0.885714  0.781036  0.000000
+ecoli-0-1-4-7_vs_5-6  0.945681  0.786938  0.564029  0.600000   0.602857  0.673573  0.000000
+ecoli2                0.330553  0.590909  0.329776  0.981818   0.198368  0.430599  0.000000
+ecoli3                0.836435  0.870859  0.553160  0.914286   0.410654  0.863328  1.494002
+__main__: 2023-11-06 16:49:16: INFO: NB have been done.
+__main__: 2023-11-06 16:49:16: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:49:16: INFO: KNN starts to process.
+__main__: 2023-11-06 16:49:19: INFO: KNN : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:49:22: INFO: KNN : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:49:24: INFO: KNN : ecoli2 has compeleted!
+__main__: 2023-11-06 16:49:26: INFO: KNN : ecoli3 has compeleted!
+__main__: 2023-11-06 16:49:26: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean  ExeTime
+ecoli-0-1-4-6_vs_5    0.975000  0.917308  0.832540  0.850000   0.830000  0.912646    0.000
+ecoli-0-1-4-7_vs_5-6  0.972863  0.911830  0.827677  0.840000   0.836190  0.907830    0.000
+ecoli2                0.892888  0.864177  0.715509  0.821212   0.638225  0.860335    0.000
+ecoli3                0.919579  0.778415  0.555702  0.600000   0.661111  0.717203    2.486
+__main__: 2023-11-06 16:49:26: INFO: KNN have been done.
+__main__: 2023-11-06 16:49:26: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:49:26: INFO: SVM starts to process.
+__main__: 2023-11-06 16:49:28: INFO: SVM : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:49:30: INFO: SVM : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:49:32: INFO: SVM : ecoli2 has compeleted!
+__main__: 2023-11-06 16:49:34: INFO: SVM : ecoli3 has compeleted!
+__main__: 2023-11-06 16:49:34: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean   ExeTime
+ecoli-0-1-4-6_vs_5    0.982143  0.898077  0.854762  0.800000   0.950000  0.886158  0.000000
+ecoli-0-1-4-7_vs_5-6  0.969833  0.910190  0.809899  0.840000   0.796190  0.906358  0.000000
+ecoli2                0.931475  0.901245  0.805048  0.856061   0.764396  0.898442  0.000000
+ecoli3                0.919710  0.816382  0.616286  0.685714   0.659524  0.781889  1.919002
+__main__: 2023-11-06 16:49:34: INFO: SVM have been done.
+__main__: 2023-11-06 16:49:34: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:49:34: INFO: DT starts to process.
+__main__: 2023-11-06 16:49:35: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:49:37: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:49:38: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:49:39: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:49:39: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean   ExeTime
+ecoli-0-1-4-6_vs_5    0.964286  0.842308  0.720635  0.700000   0.760000  0.818232  0.000000
+ecoli-0-1-4-7_vs_5-6  0.951877  0.826991  0.676566  0.680000   0.700952  0.807143  0.000000
+ecoli2                0.910623  0.838366  0.710476  0.730303   0.772269  0.816326  0.000000
+ecoli3                0.922564  0.780055  0.597143  0.600000   0.698168  0.740272  1.489001
+__main__: 2023-11-06 16:49:39: INFO: DT have been done.
+__main__: 2023-11-06 16:49:39: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:49:39: INFO: RF starts to process.
+__main__: 2023-11-06 16:49:54: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:50:09: INFO: RF : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:50:24: INFO: RF : ecoli2 has compeleted!
+__main__: 2023-11-06 16:50:31: INFO: DT starts to process.
+__main__: 2023-11-06 16:50:33: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:50:34: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:50:36: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:50:38: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:50:38: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.903846  0.720909  0.850000   0.645238  0.895695    None
+ecoli-0-1-4-7_vs_5-6  0.963908  0.870243  0.762020  0.760000   0.776667  0.861868    None
+ecoli2                0.874846  0.823485  0.652206  0.746970   0.596117  0.806306    None
+ecoli3                0.913652  0.762408  0.545758  0.571429   0.604359  0.710273    1.57
+__main__: 2023-11-06 16:50:38: INFO: DT have been done.
+__main__: 2023-11-06 16:50:38: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:50:38: INFO: RF starts to process.
+__main__: 2023-11-06 16:50:53: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:51:33: INFO: DT starts to process.
+__main__: 2023-11-06 16:51:35: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:51:36: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:51:38: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:51:39: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:51:39: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.903846  0.720909  0.850000   0.645238  0.895695    None
+ecoli-0-1-4-7_vs_5-6  0.963908  0.870243  0.762020  0.760000   0.776667  0.861868    None
+ecoli2                0.874846  0.823485  0.652206  0.746970   0.596117  0.806306    None
+ecoli3                0.913652  0.762408  0.545758  0.571429   0.604359  0.710273    1.55
+__main__: 2023-11-06 16:51:39: INFO: DT have been done.
+__main__: 2023-11-06 16:51:39: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:51:39: INFO: RF starts to process.
+__main__: 2023-11-06 16:52:24: INFO: DT starts to process.
+__main__: 2023-11-06 16:52:26: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:52:27: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:52:29: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:52:30: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:52:30: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean   ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.903846  0.720909  0.850000   0.645238  0.895695  0.000000
+ecoli-0-1-4-7_vs_5-6  0.963908  0.870243  0.762020  0.760000   0.776667  0.861868  0.000000
+ecoli2                0.874846  0.823485  0.652206  0.746970   0.596117  0.806306  0.000000
+ecoli3                0.913652  0.762408  0.545758  0.571429   0.604359  0.710273  1.519999
+__main__: 2023-11-06 16:52:30: INFO: DT have been done.
+__main__: 2023-11-06 16:52:30: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:52:30: INFO: RF starts to process.
+__main__: 2023-11-06 16:53:00: INFO: DT starts to process.
+__main__: 2023-11-06 16:53:02: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:53:03: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:53:05: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:53:06: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:53:06: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.903846  0.720909  0.850000   0.645238  0.895695    1.76
+ecoli-0-1-4-7_vs_5-6  0.963908  0.870243  0.762020  0.760000   0.776667  0.861868    1.65
+ecoli2                0.874846  0.823485  0.652206  0.746970   0.596117  0.806306    1.48
+ecoli3                0.913652  0.762408  0.545758  0.571429   0.604359  0.710273    1.61
+__main__: 2023-11-06 16:53:06: INFO: DT have been done.
+__main__: 2023-11-06 16:53:06: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:53:06: INFO: RF starts to process.
+__main__: 2023-11-06 16:53:22: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:53:36: INFO: RF : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:53:51: INFO: RF : ecoli2 has compeleted!
+__main__: 2023-11-06 16:54:05: INFO: RF : ecoli3 has compeleted!
+__main__: 2023-11-06 16:54:05: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.957143  0.861538  0.711905  0.750000   0.716667  0.843795    15.4
+ecoli-0-1-4-7_vs_5-6  0.957847  0.848577  0.717576  0.720000   0.726667  0.836600    14.4
+ecoli2                0.892976  0.835714  0.701525  0.750000   0.675962  0.828695    14.6
+ecoli3                0.913652  0.749817  0.534890  0.542857   0.638889  0.690813    13.9
+__main__: 2023-11-06 16:54:05: INFO: RF have been done.
+__main__: 2023-11-06 16:54:05: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:54:05: INFO: MLP starts to process.
+__main__: 2023-11-06 16:54:09: INFO: MLP : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:54:14: INFO: MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:54:17: INFO: MLP : ecoli2 has compeleted!
+__main__: 2023-11-06 16:54:21: INFO: MLP : ecoli3 has compeleted!
+__main__: 2023-11-06 16:54:21: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.932143  0.801923  0.557998  0.650000   0.515556  0.763617    3.95
+ecoli-0-1-4-7_vs_5-6  0.927725  0.887451  0.647619  0.840000   0.533045  0.885492    4.72
+ecoli2                0.577217  0.499838  0.155009  0.381818   0.107222  0.261943    3.62
+ecoli3                0.824495  0.813689  0.474872  0.800000   0.356686  0.791715    4.09
+__main__: 2023-11-06 16:54:21: INFO: MLP have been done.
+__main__: 2023-11-06 16:54:21: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:54:21: INFO: NB starts to process.
+__main__: 2023-11-06 16:54:23: INFO: NB : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:54:25: INFO: NB : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:54:27: INFO: NB : ecoli2 has compeleted!
+__main__: 2023-11-06 16:54:30: INFO: NB : ecoli3 has compeleted!
+__main__: 2023-11-06 16:54:30: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.960714  0.817308  0.693853  0.650000   0.885714  0.781036    1.78
+ecoli-0-1-4-7_vs_5-6  0.945681  0.786938  0.564029  0.600000   0.602857  0.673573    2.34
+ecoli2                0.330553  0.590909  0.329776  0.981818   0.198368  0.430599    1.93
+ecoli3                0.836435  0.870859  0.553160  0.914286   0.410654  0.863328    2.09
+__main__: 2023-11-06 16:54:30: INFO: NB have been done.
+__main__: 2023-11-06 16:54:30: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:54:30: INFO: KNN starts to process.
+__main__: 2023-11-06 16:54:34: INFO: KNN : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:54:38: INFO: KNN : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:54:41: INFO: KNN : ecoli2 has compeleted!
+__main__: 2023-11-06 16:54:44: INFO: KNN : ecoli3 has compeleted!
+__main__: 2023-11-06 16:54:44: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.975000  0.917308  0.832540  0.850000   0.830000  0.912646    4.57
+ecoli-0-1-4-7_vs_5-6  0.972863  0.911830  0.827677  0.840000   0.836190  0.907830    3.91
+ecoli2                0.892888  0.864177  0.715509  0.821212   0.638225  0.860335    2.80
+ecoli3                0.919579  0.778415  0.555702  0.600000   0.661111  0.717203    3.22
+__main__: 2023-11-06 16:54:44: INFO: KNN have been done.
+__main__: 2023-11-06 16:54:44: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:54:44: INFO: SVM starts to process.
+__main__: 2023-11-06 16:54:46: INFO: SVM : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:54:48: INFO: SVM : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:54:50: INFO: SVM : ecoli2 has compeleted!
+__main__: 2023-11-06 16:54:52: INFO: SVM : ecoli3 has compeleted!
+__main__: 2023-11-06 16:54:52: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.982143  0.898077  0.854762  0.800000   0.950000  0.886158    1.96
+ecoli-0-1-4-7_vs_5-6  0.969833  0.910190  0.809899  0.840000   0.796190  0.906358    2.02
+ecoli2                0.931475  0.901245  0.805048  0.856061   0.764396  0.898442    2.01
+ecoli3                0.919710  0.816382  0.616286  0.685714   0.659524  0.781889    2.21
+__main__: 2023-11-06 16:54:52: INFO: SVM have been done.
+__main__: 2023-11-06 16:54:52: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:54:52: INFO: DT starts to process.
+__main__: 2023-11-06 16:54:54: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:54:56: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:54:58: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:54:59: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:54:59: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.964286  0.842308  0.720635  0.700000   0.760000  0.818232    1.69
+ecoli-0-1-4-7_vs_5-6  0.951877  0.826991  0.676566  0.680000   0.700952  0.807143    1.88
+ecoli2                0.910623  0.838366  0.710476  0.730303   0.772269  0.816326    1.65
+ecoli3                0.922564  0.780055  0.597143  0.600000   0.698168  0.740272    1.79
+__main__: 2023-11-06 16:54:59: INFO: DT have been done.
+__main__: 2023-11-06 16:54:59: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:54:59: INFO: RF starts to process.
+__main__: 2023-11-06 16:55:16: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:55:34: INFO: RF : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:55:49: INFO: RF : ecoli2 has compeleted!
+__main__: 2023-11-06 16:56:06: INFO: RF : ecoli3 has compeleted!
+__main__: 2023-11-06 16:56:06: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.982143  0.921154  0.863492  0.850000   0.893333  0.911328    16.7
+ecoli-0-1-4-7_vs_5-6  0.957892  0.811856  0.686667  0.640000   0.753333  0.787602    18.1
+ecoli2                0.907726  0.858496  0.738394  0.784848   0.712729  0.853122    14.9
+ecoli3                0.904741  0.744817  0.509364  0.542857   0.613333  0.682682    16.8
+__main__: 2023-11-06 16:56:06: INFO: RF have been done.
+__main__: 2023-11-06 16:56:06: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:56:06: INFO: MLP starts to process.
+__main__: 2023-11-06 16:56:10: INFO: MLP : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:56:16: INFO: MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:56:21: INFO: MLP : ecoli2 has compeleted!
+__main__: 2023-11-06 16:56:25: INFO: MLP : ecoli3 has compeleted!
+__main__: 2023-11-06 16:56:25: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.935714  0.873077  0.628531  0.800000   0.536508  0.857753    4.37
+ecoli-0-1-4-7_vs_5-6  0.924469  0.867292  0.627619  0.800000   0.541746  0.861530    5.96
+ecoli2                0.708472  0.432305  0.025000  0.018182   0.040000  0.058109    4.25
+ecoli3                0.833143  0.793205  0.499496  0.742857   0.419864  0.765119    4.72
+__main__: 2023-11-06 16:56:25: INFO: MLP have been done.
+__main__: 2023-11-06 16:56:25: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:56:25: INFO: NB starts to process.
+__main__: 2023-11-06 16:56:27: INFO: NB : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:56:29: INFO: NB : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:56:30: INFO: NB : ecoli2 has compeleted!
+__main__: 2023-11-06 16:56:32: INFO: NB : ecoli3 has compeleted!
+__main__: 2023-11-06 16:56:32: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.942857  0.807692  0.643333  0.650000   0.804545  0.772278    1.75
+ecoli-0-1-4-7_vs_5-6  0.957711  0.848577  0.709899  0.720000   0.729524  0.829370    1.69
+ecoli2                0.345127  0.599838  0.336072  0.981818   0.203136  0.445057    1.55
+ecoli3                0.836479  0.858267  0.540502  0.885714   0.407624  0.844916    1.73
+__main__: 2023-11-06 16:56:32: INFO: NB have been done.
+__main__: 2023-11-06 16:56:32: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:56:32: INFO: KNN starts to process.
+__main__: 2023-11-06 16:56:35: INFO: KNN : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:56:38: INFO: KNN : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:56:41: INFO: KNN : ecoli2 has compeleted!
+__main__: 2023-11-06 16:56:44: INFO: KNN : ecoli3 has compeleted!
+__main__: 2023-11-06 16:56:44: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.964286  0.911538  0.777994  0.850000   0.744286  0.906791    2.93
+ecoli-0-1-4-7_vs_5-6  0.978878  0.915108  0.852929  0.840000   0.876667  0.908321    3.04
+ecoli2                0.898859  0.867749  0.729515  0.821212   0.665981  0.863303    2.60
+ecoli3                0.913608  0.787701  0.566717  0.628571   0.637778  0.735934    2.90
+__main__: 2023-11-06 16:56:44: INFO: KNN have been done.
+__main__: 2023-11-06 16:56:44: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:56:44: INFO: SVM starts to process.
+__main__: 2023-11-06 16:56:46: INFO: SVM : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:56:48: INFO: SVM : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:56:50: INFO: SVM : ecoli2 has compeleted!
+__main__: 2023-11-06 16:56:52: INFO: SVM : ecoli3 has compeleted!
+__main__: 2023-11-06 16:56:52: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.982143  0.921154  0.871429  0.850000   0.900000  0.916268    1.93
+ecoli-0-1-4-7_vs_5-6  0.975893  0.913469  0.839596  0.840000   0.846667  0.909502    2.05
+ecoli2                0.931475  0.908550  0.814571  0.874242   0.775968  0.906463    1.85
+ecoli3                0.919622  0.778415  0.595234  0.600000   0.667857  0.742712    2.08
+__main__: 2023-11-06 16:56:52: INFO: SVM have been done.
+__main__: 2023-11-06 16:56:52: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:56:52: INFO: DT starts to process.
+__main__: 2023-11-06 16:56:52: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:56:53: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:56:54: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:56:55: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:56:55: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.939286  0.759615  0.573016  0.550000   0.606667  0.714862    0.81
+ecoli-0-1-4-7_vs_5-6  0.954907  0.865378  0.728687  0.760000   0.712381  0.858018    0.75
+ecoli2                0.889947  0.812013  0.661297  0.695455   0.662857  0.791530    0.71
+ecoli3                0.904785  0.744844  0.516659  0.542857   0.639048  0.691849    0.74
+__main__: 2023-11-06 16:56:55: INFO: DT have been done.
+__main__: 2023-11-06 16:56:55: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:56:55: INFO: RF starts to process.
+__main__: 2023-11-06 16:57:10: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:57:24: INFO: RF : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:57:36: INFO: RF : ecoli2 has compeleted!
+__main__: 2023-11-06 16:57:49: INFO: RF : ecoli3 has compeleted!
+__main__: 2023-11-06 16:57:49: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.975000  0.894231  0.817143  0.800000   0.866667  0.882581    15.5
+ecoli-0-1-4-7_vs_5-6  0.969968  0.855135  0.775556  0.720000   0.853333  0.838088    13.3
+ecoli2                0.901888  0.833766  0.713841  0.731818   0.722418  0.823701    12.1
+ecoli3                0.910711  0.760769  0.525297  0.571429   0.556667  0.701713    13.2
+__main__: 2023-11-06 16:57:49: INFO: RF have been done.
+__main__: 2023-11-06 16:57:49: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:57:49: INFO: MLP starts to process.
+__main__: 2023-11-06 16:57:53: INFO: MLP : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:57:56: INFO: MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:57:59: INFO: MLP : ecoli2 has compeleted!
+__main__: 2023-11-06 16:58:01: INFO: MLP : ecoli3 has compeleted!
+__main__: 2023-11-06 16:58:01: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.925000  0.821154  0.551865  0.700000   0.473175  0.789876    3.61
+ecoli-0-1-4-7_vs_5-6  0.912438  0.860762  0.610140  0.800000   0.558824  0.853032    3.56
+ecoli2                0.636874  0.541829  0.212368  0.401515   0.145312  0.363629    2.33
+ecoli3                0.842011  0.798150  0.488812  0.742857   0.402797  0.772161    2.57
+__main__: 2023-11-06 16:58:01: INFO: MLP have been done.
+__main__: 2023-11-06 16:58:01: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:58:01: INFO: NB starts to process.
+__main__: 2023-11-06 16:58:02: INFO: NB : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:58:02: INFO: NB : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:58:03: INFO: NB : ecoli2 has compeleted!
+__main__: 2023-11-06 16:58:04: INFO: NB : ecoli3 has compeleted!
+__main__: 2023-11-06 16:58:04: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.925000  0.798077  0.588730  0.650000   0.686190  0.763452    0.59
+ecoli-0-1-4-7_vs_5-6  0.933650  0.798794  0.560440  0.640000   0.611111  0.754480    0.72
+ecoli2                0.282836  0.562338  0.315569  0.981818   0.188346  0.350263    0.61
+ecoli3                0.862950  0.885640  0.599778  0.914286   0.457600  0.879892    0.69
+__main__: 2023-11-06 16:58:04: INFO: NB have been done.
+__main__: 2023-11-06 16:58:04: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:58:04: INFO: KNN starts to process.
+__main__: 2023-11-06 16:58:06: INFO: KNN : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:58:07: INFO: KNN : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:58:09: INFO: KNN : ecoli2 has compeleted!
+__main__: 2023-11-06 16:58:10: INFO: KNN : ecoli3 has compeleted!
+__main__: 2023-11-06 16:58:10: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.975000  0.917308  0.831429  0.850000   0.833333  0.912384    1.82
+ecoli-0-1-4-7_vs_5-6  0.963817  0.906938  0.790754  0.840000   0.776190  0.903362    1.61
+ecoli2                0.898946  0.867749  0.732986  0.821212   0.665873  0.864277    1.40
+ecoli3                0.895742  0.765109  0.522342  0.600000   0.589048  0.722246    1.64
+__main__: 2023-11-06 16:58:10: INFO: KNN have been done.
+__main__: 2023-11-06 16:58:10: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:58:10: INFO: SVM starts to process.
+__main__: 2023-11-06 16:58:11: INFO: SVM : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:58:12: INFO: SVM : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:58:13: INFO: SVM : ecoli2 has compeleted!
+__main__: 2023-11-06 16:58:14: INFO: SVM : ecoli3 has compeleted!
+__main__: 2023-11-06 16:58:14: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.978571  0.919231  0.848413  0.850000   0.870000  0.914077    0.82
+ecoli-0-1-4-7_vs_5-6  0.957847  0.903712  0.758430  0.840000   0.709524  0.900455    0.85
+ecoli2                0.913565  0.897835  0.784214  0.874242   0.727033  0.896031    0.86
+ecoli3                0.916769  0.814715  0.619316  0.685714   0.621832  0.790457    0.89
+__main__: 2023-11-06 16:58:14: INFO: SVM have been done.
+__main__: 2023-11-06 16:58:14: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:58:14: INFO: DT starts to process.
+__main__: 2023-11-06 16:58:14: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:58:15: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:58:16: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:58:16: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:58:16: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.857692  0.680952  0.750000   0.653333  0.840725    0.67
+ecoli-0-1-4-7_vs_5-6  0.948711  0.880407  0.717576  0.800000   0.666667  0.876615    0.69
+ecoli2                0.892801  0.826894  0.686709  0.728788   0.662400  0.814960    0.63
+ecoli3                0.919666  0.791007  0.619512  0.628571   0.662424  0.767713    0.72
+__main__: 2023-11-06 16:58:16: INFO: DT have been done.
+__main__: 2023-11-06 16:58:16: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:58:16: INFO: RF starts to process.
+__main__: 2023-11-06 16:58:30: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:58:43: INFO: RF : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:58:56: INFO: RF : ecoli2 has compeleted!
+__main__: 2023-11-06 16:59:10: INFO: RF : ecoli3 has compeleted!
+__main__: 2023-11-06 16:59:10: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.971429  0.892308  0.795714  0.800000   0.816667  0.880908    13.7
+ecoli-0-1-4-7_vs_5-6  0.963908  0.833496  0.737778  0.680000   0.810000  0.817273    13.1
+ecoli2                0.901756  0.833009  0.709370  0.730303   0.724176  0.821297    12.5
+ecoli3                0.907770  0.759130  0.526817  0.571429   0.586667  0.699781    14.1
+__main__: 2023-11-06 16:59:10: INFO: RF have been done.
+__main__: 2023-11-06 16:59:10: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:59:10: INFO: MLP starts to process.
+__main__: 2023-11-06 16:59:13: INFO: MLP : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:59:17: INFO: MLP : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:59:19: INFO: MLP : ecoli2 has compeleted!
+__main__: 2023-11-06 16:59:21: INFO: MLP : ecoli3 has compeleted!
+__main__: 2023-11-06 16:59:21: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.928571  0.823077  0.582222  0.700000   0.508333  0.806582    3.11
+ecoli-0-1-4-7_vs_5-6  0.924469  0.885680  0.645326  0.840000   0.540556  0.883600    3.47
+ecoli2                0.633758  0.504545  0.158620  0.309091   0.115396  0.295281    2.32
+ecoli3                0.827349  0.815273  0.484709  0.800000   0.365740  0.793417    2.55
+__main__: 2023-11-06 16:59:21: INFO: MLP have been done.
+__main__: 2023-11-06 16:59:21: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:59:21: INFO: NB starts to process.
+__main__: 2023-11-06 16:59:22: INFO: NB : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:59:23: INFO: NB : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:59:23: INFO: NB : ecoli2 has compeleted!
+__main__: 2023-11-06 16:59:24: INFO: NB : ecoli3 has compeleted!
+__main__: 2023-11-06 16:59:24: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.932143  0.871154  0.690952  0.800000   0.659524  0.861501    0.65
+ecoli-0-1-4-7_vs_5-6  0.942650  0.748551  0.543377  0.520000   0.620000  0.632403    0.69
+ecoli2                0.354039  0.605195  0.337833  0.981818   0.204269  0.466457    0.61
+ecoli3                0.842186  0.874055  0.551148  0.914286   0.398324  0.868186    0.70
+__main__: 2023-11-06 16:59:24: INFO: NB have been done.
+__main__: 2023-11-06 16:59:24: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:59:24: INFO: KNN starts to process.
+__main__: 2023-11-06 16:59:26: INFO: KNN : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:59:28: INFO: KNN : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:59:29: INFO: KNN : ecoli2 has compeleted!
+__main__: 2023-11-06 16:59:31: INFO: KNN : ecoli3 has compeleted!
+__main__: 2023-11-06 16:59:31: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.971429  0.915385  0.816883  0.850000   0.814286  0.910413    1.67
+ecoli-0-1-4-7_vs_5-6  0.969878  0.910217  0.816162  0.840000   0.814286  0.906532    1.68
+ecoli2                0.892888  0.864177  0.715673  0.821212   0.635952  0.860642    1.49
+ecoli3                0.904741  0.782756  0.536825  0.628571   0.527498  0.733352    1.67
+__main__: 2023-11-06 16:59:31: INFO: KNN have been done.
+__main__: 2023-11-06 16:59:31: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:59:31: INFO: SVM starts to process.
+__main__: 2023-11-06 16:59:31: INFO: SVM : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:59:32: INFO: SVM : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:59:33: INFO: SVM : ecoli2 has compeleted!
+__main__: 2023-11-06 16:59:34: INFO: SVM : ecoli3 has compeleted!
+__main__: 2023-11-06 16:59:34: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.971429  0.892308  0.799206  0.800000   0.810000  0.881479    0.78
+ecoli-0-1-4-7_vs_5-6  0.972908  0.911856  0.828283  0.840000   0.833333  0.908030    0.86
+ecoli2                0.916637  0.899621  0.781395  0.874242   0.708938  0.898580    0.91
+ecoli3                0.922651  0.817994  0.636190  0.685714   0.679640  0.793000    0.84
+__main__: 2023-11-06 16:59:34: INFO: SVM have been done.
+__main__: 2023-11-06 16:59:34: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:59:34: INFO: DT starts to process.
+__main__: 2023-11-06 16:59:35: INFO: DT : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 16:59:36: INFO: DT : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 16:59:38: INFO: DT : ecoli2 has compeleted!
+__main__: 2023-11-06 16:59:39: INFO: DT : ecoli3 has compeleted!
+__main__: 2023-11-06 16:59:39: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.950000  0.811538  0.638889  0.650000   0.730000  0.776947    0.89
+ecoli-0-1-4-7_vs_5-6  0.948937  0.788604  0.610000  0.600000   0.652857  0.741206    1.16
+ecoli2                0.889816  0.825866  0.685934  0.730303   0.658378  0.817287    1.39
+ecoli3                0.910623  0.722857  0.507843  0.485714   0.618333  0.653607    1.28
+__main__: 2023-11-06 16:59:39: INFO: DT have been done.
+__main__: 2023-11-06 16:59:39: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 16:59:39: INFO: RF starts to process.
+__main__: 2023-11-06 16:59:54: INFO: RF : ecoli-0-1-4-6_vs_5 has compeleted!
+__main__: 2023-11-06 17:00:10: INFO: RF : ecoli-0-1-4-7_vs_5-6 has compeleted!
+__main__: 2023-11-06 17:00:29: INFO: RF : ecoli2 has compeleted!
+__main__: 2023-11-06 17:00:49: INFO: RF : ecoli3 has compeleted!
+__main__: 2023-11-06 17:00:49: INFO: Evaluation outcome : 
+                       Accuracy       AUC  F1-score    Recall  Precision    G-mean ExeTime
+ecoli-0-1-4-6_vs_5    0.975000  0.825000  0.756190  0.650000   1.000000  0.787832    15.0
+ecoli-0-1-4-7_vs_5-6  0.958028  0.720000  0.505556  0.440000   0.600000  0.512690    16.4
+ecoli2                0.919666  0.830628  0.743246  0.696970   0.810000  0.818596    19.1
+ecoli3                0.916637  0.751456  0.561039  0.542857   0.631948  0.707357    19.3
+__main__: 2023-11-06 17:00:49: INFO: RF have been done.
+__main__: 2023-11-06 17:00:49: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-11-06 17:00:49: INFO: MLP starts to process.
+__main__: 2023-11-06 17:00:51: INFO: MLP : ecoli-0-1-4-6_vs_5 has compeleted!

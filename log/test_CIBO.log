@@ -2113,3 +2113,944 @@ Recall       0.690000
 Precision    0.760000
 G-mean       0.813226
 Name: 0, dtype: float64
+2023-10-30 14:08:24 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:09:37 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:10:44 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:11:22 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:15:05 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:15:17 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:17:58 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:19:02 INFO Revised evaluation outcome :
+Accuracy     0.967252
+AUC          0.838625
+F1-score     0.731429
+Recall       0.690000
+Precision    0.793333
+G-mean       0.819782
+Name: 0, dtype: float64
+2023-10-30 14:19:02 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000002286BB04700>)
+2023-10-30 14:19:02 INFO Test progress is over.
+2023-10-30 14:19:02 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 14:20:16 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:20:30 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:20:31 INFO Revised evaluation outcome :
+Accuracy     0.967252
+AUC          0.838625
+F1-score     0.731429
+Recall       0.690000
+Precision    0.793333
+G-mean       0.819782
+Name: 0, dtype: float64
+2023-10-30 14:20:31 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x0000028F5D8A4700>)
+2023-10-30 14:20:31 INFO Test progress is over.
+2023-10-30 14:20:31 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 14:20:52 INFO Original evaluation outcome :
+Accuracy     0.991135
+AUC          0.499396
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 14:20:54 INFO Revised evaluation outcome :
+Accuracy     0.987063
+AUC          0.511509
+F1-score     0.025000
+Recall       0.028571
+Precision    0.022222
+G-mean       0.075227
+Name: 0, dtype: float64
+2023-10-30 14:20:54 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x000001ABC0733700>)
+2023-10-30 14:20:54 INFO Test progress is over.
+2023-10-30 14:20:54 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 14:39:39 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:40:38 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 14:40:38 INFO Revised evaluation outcome :
+Accuracy     0.967252
+AUC          0.838625
+F1-score     0.731429
+Recall       0.690000
+Precision    0.793333
+G-mean       0.819782
+Name: 0, dtype: float64
+2023-10-30 14:40:38 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x0000028FBD964700>)
+2023-10-30 14:40:38 INFO Test progress is over.
+2023-10-30 14:40:38 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 17:58:56 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 17:58:56 INFO Revised evaluation outcome :
+Accuracy     0.967252
+AUC          0.838625
+F1-score     0.731429
+Recall       0.690000
+Precision    0.793333
+G-mean       0.819782
+Name: 0, dtype: float64
+2023-10-30 17:58:56 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x000001DB58F84700>)
+2023-10-30 17:58:56 INFO Test progress is over.
+2023-10-30 17:58:56 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 17:59:02 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 18:03:39 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 18:04:04 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 18:04:18 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 18:04:35 INFO Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+2023-10-30 18:04:35 INFO Revised evaluation outcome :
+Accuracy     0.967252
+AUC          0.838625
+F1-score     0.731429
+Recall       0.690000
+Precision    0.793333
+G-mean       0.819782
+Name: 0, dtype: float64
+2023-10-30 18:04:35 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x000001E981EE4700>)
+2023-10-30 18:04:35 INFO Test progress is over.
+2023-10-30 18:04:35 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:04:54 INFO Original evaluation outcome :
+Accuracy     0.981385
+AUC          0.945000
+F1-score     0.893333
+Recall       0.900000
+Precision    0.933333
+G-mean       0.936357
+Name: 0, dtype: float64
+2023-10-30 18:04:56 INFO Revised evaluation outcome :
+Accuracy     0.945022
+AUC          0.880000
+F1-score     0.746667
+Recall       0.800000
+Precision    0.766667
+G-mean       0.865322
+Name: 0, dtype: float64
+2023-10-30 18:04:56 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x000001F8B7514700>)
+2023-10-30 18:04:56 INFO Test progress is over.
+2023-10-30 18:04:56 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:05:29 INFO Original evaluation outcome :
+Accuracy     0.981385
+AUC          0.945000
+F1-score     0.893333
+Recall       0.900000
+Precision    0.933333
+G-mean       0.936357
+Name: 0, dtype: float64
+2023-10-30 18:05:32 INFO Revised evaluation outcome :
+Accuracy     0.954545
+AUC          0.930000
+F1-score     0.813333
+Recall       0.900000
+Precision    0.766667
+G-mean       0.923901
+Name: 0, dtype: float64
+2023-10-30 18:05:32 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 10, metric = <function balanced_accuracy_score at 0x0000025B44274700>)
+2023-10-30 18:05:32 INFO Test progress is over.
+2023-10-30 18:05:32 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:06:05 INFO Original evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:06:05 INFO Revised evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:06:05 INFO ClusIBasedOversampling(n_neighbors=3, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 10, metric = <function balanced_accuracy_score at 0x000001A365004700>)
+2023-10-30 18:06:05 INFO Test progress is over.
+2023-10-30 18:06:05 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:06:25 INFO Original evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:07:05 INFO Original evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:07:05 INFO Revised evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:07:05 INFO ClusIBasedOversampling(n_neighbors=3, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x0000020F66D44700>)
+2023-10-30 18:07:05 INFO Test progress is over.
+2023-10-30 18:07:05 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:07:20 INFO Original evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:07:21 INFO Revised evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:07:21 INFO ClusIBasedOversampling(n_neighbors=3, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x0000015ABEB04700>)
+2023-10-30 18:07:21 INFO Test progress is over.
+2023-10-30 18:07:21 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:07:37 INFO Original evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:07:38 INFO Revised evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:07:38 INFO ClusIBasedOversampling(n_neighbors=3, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x00000223A5FE4700>)
+2023-10-30 18:07:38 INFO Test progress is over.
+2023-10-30 18:07:38 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:13:12 INFO Original evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:13:56 INFO Original evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:13:57 INFO Revised evaluation outcome :
+Accuracy     0.96
+AUC          0.60
+F1-score     0.20
+Recall       0.20
+Precision    0.20
+G-mean       0.20
+Name: 0, dtype: float64
+2023-10-30 18:13:57 INFO ClusIBasedOversampling(n_neighbors=3, n_clusters=10, clustering_method=HDBSCAN(), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001CC6ECF4700>)
+2023-10-30 18:13:57 INFO Test progress is over.
+2023-10-30 18:13:57 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:14:31 INFO Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:14:32 INFO Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:14:32 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x00000231FE7E4700>)
+2023-10-30 18:14:32 INFO Test progress is over.
+2023-10-30 18:14:32 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:19:21 INFO Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:19:21 INFO Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:19:21 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x00000244D3B82700>)
+2023-10-30 18:19:21 INFO Test progress is over.
+2023-10-30 18:19:21 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:20:26 INFO Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:20:26 INFO Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:20:26 INFO ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000002855D472700>)
+2023-10-30 18:20:26 INFO Test progress is over.
+2023-10-30 18:20:26 INFO ----------------------------------------------------------------------------------------------------
+2023-10-30 18:21:48 INFO __main__ Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:21:48 INFO __main__ Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:21:48 INFO __main__ ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001FBABD52700>)
+2023-10-30 18:21:48 INFO __main__ Test progress is over.
+2023-10-30 18:21:48 INFO __main__ ----------------------------------------------------------------------------------------------------
+2023-10-30 18:22:19 INFO __main__ Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:22:19 INFO __main__ Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+2023-10-30 18:22:19 INFO __main__ ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000002F4E72E2700>)
+2023-10-30 18:22:19 INFO __main__ Test progress is over.
+2023-10-30 18:22:19 INFO __main__ ----------------------------------------------------------------------------------------------------
+__main__: 2023-10-30 18:22:51: INFO: Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:22:51: INFO: Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:22:51: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x0000028001AA2700>)
+__main__: 2023-10-30 18:22:51: INFO: Test progress is over.
+__main__: 2023-10-30 18:22:51: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-10-30 18:27:57: INFO: Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:27:58: INFO: Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:27:58: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x00000221E0C62700>)
+__main__: 2023-10-30 18:27:58: INFO: ----Test progress is over.----
+__main__: 2023-10-30 18:27:58: INFO: ----------------------------------------------------------------------------------------------------
+__main__: 2023-10-30 18:28:19: INFO: Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:28:20: INFO: Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:28:20: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x0000027BEC342700>)
+__main__: 2023-10-30 18:28:20: INFO: ---------------------------------------Test progress is over----------------------------------------
+__main__: 2023-10-30 18:28:43: INFO: Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:28:44: INFO: Revised evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:28:44: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x0000020E5B7E2700>)
+__main__: 2023-10-30 18:28:44: INFO: -------------------------------------------------Test progress is over--------------------------------------------------
+__main__: 2023-10-30 18:33:37: INFO: Revised evaluation outcome :
+Accuracy     0.981201
+AUC          0.497805
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:33:37: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x0000022156C23790>)
+__main__: 2023-10-30 18:33:54: INFO: Revised evaluation outcome :
+Accuracy     0.969607
+AUC          0.491922
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:33:54: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x0000017AB24B3790>)
+__main__: 2023-10-30 18:34:28: INFO: Revised evaluation outcome :
+Accuracy     0.972526
+AUC          0.493404
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:34:28: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001E77FDD2790>)
+__main__: 2023-10-30 18:35:03: INFO: Original evaluation outcome :
+Accuracy     0.981191
+AUC          0.497799
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:35:06: INFO: Revised evaluation outcome :
+Accuracy     0.972526
+AUC          0.493404
+F1-score     0.000000
+Recall       0.000000
+Precision    0.000000
+G-mean       0.000000
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:35:06: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001ADD4412790>)
+__main__: 2023-10-30 18:35:21: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:35:56: INFO: Revised evaluation outcome :
+Accuracy     0.970237
+AUC          0.887038
+F1-score     0.771111
+Recall       0.790000
+Precision    0.773333
+G-mean       0.871767
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:35:56: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001E7CEA52790>)
+__main__: 2023-10-30 18:36:52: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-10-30 18:36:53: INFO: Revised evaluation outcome :
+Accuracy     0.970281
+AUC          0.816825
+F1-score     0.735931
+Recall       0.640000
+Precision    0.933333
+G-mean       0.790346
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:36:53: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 10, metric = <function balanced_accuracy_score at 0x0000021ACA0C3790>)
+__main__: 2023-10-30 18:36:53: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-10-30 18:37:05: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-10-30 18:37:06: INFO: Revised evaluation outcome :
+Accuracy     0.955312
+AUC          0.808889
+F1-score     0.624286
+Recall       0.640000
+Precision    0.710000
+G-mean       0.768526
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:37:06: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 10, metric = <function balanced_accuracy_score at 0x00000217679D3790>)
+__main__: 2023-10-30 18:37:06: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-10-30 18:37:25: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-10-30 18:37:25: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:37:27: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-10-30 18:37:52: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-10-30 18:37:52: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:38:11: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-10-30 18:38:11: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-10-30 18:38:26: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-10-30 18:38:27: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:31:37: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:32:44: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:33:21: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:34:32: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:39:12: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:39:13: INFO: Revised evaluation outcome :
+Accuracy     0.976207
+AUC          0.890212
+F1-score     0.809206
+Recall       0.790000
+Precision    0.853333
+G-mean       0.874538
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:39:13: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x0000024747DB3790>)
+__main__: 2023-11-06 15:39:13: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:39:33: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:39:33: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:39:34: INFO: Revised evaluation outcome :
+Accuracy     0.967252
+AUC          0.815238
+F1-score     0.690159
+Recall       0.640000
+Precision    0.820000
+G-mean       0.774766
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:39:34: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x0000020333553790>)
+__main__: 2023-11-06 15:39:34: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:41:11: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:41:11: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:42:04: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:42:04: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:43:47: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:43:47: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:44:12: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:44:12: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:44:13: INFO: Revised evaluation outcome :
+Accuracy     0.961282
+AUC          0.765212
+F1-score     0.631429
+Recall       0.540000
+Precision    0.793333
+G-mean       0.716757
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:44:13: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x000001F9CF443790>)
+__main__: 2023-11-06 15:44:13: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:44:29: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:44:29: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:44:30: INFO: Revised evaluation outcome :
+Accuracy     0.961282
+AUC          0.765212
+F1-score     0.631429
+Recall       0.540000
+Precision    0.793333
+G-mean       0.716757
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:44:30: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x000002384EE63790>)
+__main__: 2023-11-06 15:44:30: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:45:53: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:45:53: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:45:55: INFO: Revised evaluation outcome :
+Accuracy     0.970237
+AUC          0.845212
+F1-score     0.738571
+Recall       0.700000
+Precision    0.810000
+G-mean       0.811209
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:45:55: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=10, clustering_method=KMeans(n_clusters=10, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x0000021B79C33790>)
+__main__: 2023-11-06 15:45:55: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:46:02: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:46:02: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:46:04: INFO: Revised evaluation outcome :
+Accuracy     0.940474
+AUC          0.829339
+F1-score     0.635546
+Recall       0.700000
+Precision    0.664872
+G-mean       0.808101
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:46:04: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x00000170FFBF3790>)
+__main__: 2023-11-06 15:46:04: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:46:31: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:46:31: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:46:32: INFO: Revised evaluation outcome :
+Accuracy     0.958341
+AUC          0.810451
+F1-score     0.664502
+Recall       0.640000
+Precision    0.720000
+G-mean       0.785423
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:46:32: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x0000019AD3D23790>)
+__main__: 2023-11-06 15:46:32: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:46:51: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:46:51: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:46:53: INFO: Revised evaluation outcome :
+Accuracy     0.952327
+AUC          0.783863
+F1-score     0.607186
+Recall       0.590000
+Precision    0.679048
+G-mean       0.742952
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:46:53: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=8, clustering_method=KMeans(n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 5, metric = <function balanced_accuracy_score at 0x0000022BF6D82790>)
+__main__: 2023-11-06 15:46:53: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:47:13: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:47:13: INFO: Original evaluation outcome :
+Accuracy     0.964267
+AUC          0.837038
+F1-score     0.705714
+Recall       0.690000
+Precision    0.760000
+G-mean       0.813226
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:47:15: INFO: Revised evaluation outcome :
+Accuracy     0.952414
+AUC          0.812276
+F1-score     0.639048
+Recall       0.650000
+Precision    0.686667
+G-mean       0.784954
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:47:15: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001B8A4992790>)
+__main__: 2023-11-06 15:47:15: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:47:50: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:47:50: INFO: Original evaluation outcome :
+Accuracy     0.931600
+AUC          0.659712
+F1-score     0.377270
+Recall       0.352778
+Precision    0.433939
+G-mean       0.577227
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:47:52: INFO: Revised evaluation outcome :
+Accuracy     0.901444
+AUC          0.631947
+F1-score     0.281360
+Recall       0.327778
+Precision    0.252381
+G-mean       0.540063
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:47:52: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001A9EF1E2790>)
+__main__: 2023-11-06 15:47:52: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:50:10: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:50:10: INFO: Dataset: abalone9-18.dat
+__main__: 2023-11-06 15:50:10: INFO: Original evaluation outcome :
+Accuracy     0.931600
+AUC          0.659712
+F1-score     0.377270
+Recall       0.352778
+Precision    0.433939
+G-mean       0.577227
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:50:13: INFO: Revised evaluation outcome :
+Accuracy     0.901444
+AUC          0.631947
+F1-score     0.281360
+Recall       0.327778
+Precision    0.252381
+G-mean       0.540063
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:50:13: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 20, metric = <function balanced_accuracy_score at 0x000001DF98D22790>)
+__main__: 2023-11-06 15:50:13: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:50:18: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:50:18: INFO: Dataset: abalone9-18.dat
+__main__: 2023-11-06 15:50:18: INFO: Original evaluation outcome :
+Accuracy     0.931600
+AUC          0.659712
+F1-score     0.377270
+Recall       0.352778
+Precision    0.433939
+G-mean       0.577227
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:50:21: INFO: Revised evaluation outcome :
+Accuracy     0.901444
+AUC          0.631947
+F1-score     0.281360
+Recall       0.327778
+Precision    0.252381
+G-mean       0.540063
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:50:21: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 10, metric = <function balanced_accuracy_score at 0x000001ACD93F2790>)
+__main__: 2023-11-06 15:50:21: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 15:51:06: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 15:51:06: INFO: Dataset: glass2.dat
+__main__: 2023-11-06 15:51:06: INFO: Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:51:07: INFO: Revised evaluation outcome :
+Accuracy     0.850498
+AUC          0.554295
+F1-score     0.157143
+Recall       0.200000
+Precision    0.130000
+G-mean       0.329988
+Name: 0, dtype: float64
+__main__: 2023-11-06 15:51:07: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=KMeans(n_clusters=5, n_init=10), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 10, metric = <function balanced_accuracy_score at 0x0000014B87792790>)
+__main__: 2023-11-06 15:51:07: INFO: ---------------------------------------------------Test progress over---------------------------------------------------
+__main__: 2023-11-06 16:31:58: INFO: --------------------------------------------------Test progress starts--------------------------------------------------
+__main__: 2023-11-06 16:31:58: INFO: Dataset: glass2.dat
+__main__: 2023-11-06 16:31:58: INFO: Original evaluation outcome :
+Accuracy     0.892691
+AUC          0.538141
+F1-score     0.123810
+Recall       0.116667
+Precision    0.150000
+G-mean       0.209765
+Name: 0, dtype: float64
+__main__: 2023-11-06 16:31:59: INFO: Revised evaluation outcome :
+Accuracy     0.888040
+AUC          0.543718
+F1-score     0.160000
+Recall       0.133333
+Precision    0.200000
+G-mean       0.227998
+Name: 0, dtype: float64
+__main__: 2023-11-06 16:31:59: INFO: ClusIBasedOversampling(n_neighbors=5, n_clusters=5, clustering_method=HDBSCAN(min_cluster_size=2), classifier=DecisionTreeClassifier(min_samples_leaf=2, min_samples_split=10), early_stopping = 10, metric = <function balanced_accuracy_score at 0x00000281BE332790>)
+__main__: 2023-11-06 16:31:59: INFO: ---------------------------------------------------Test progress over---------------------------------------------------

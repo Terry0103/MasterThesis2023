@@ -13,13 +13,12 @@ from sklearn.neighbors import KNeighborsClassifier
 # Resamplers
 import smote_variants as sv
 # Clustering methods
-from sklearn.cluster import KMeans, DBSCAN, AgglomerativeClustering, AffinityPropagation
-from hdbscan import HDBSCAN
+from sklearn.cluster import KMeans, DBSCAN, AgglomerativeClustering, HDBSCAN
 # self-defined modules
 import kee_utils.evaluation_pipeline as F
 from kee_utils.utils import *
 from ClusterImp_Resampling.CIMPO import ClusIBasedOversampling
-from ClassImp_Resampling.ClassImp import IHOT
+
 
 clf_dict = {
     'DT' : DecisionTreeClassifier(criterion = 'entropy', random_state = 30678, min_samples_split = 10, min_samples_leaf = 2),
@@ -50,7 +49,7 @@ resampler_dict = {
     'KMeansSMOTE' : sv.kmeans_SMOTE(random_state = 777, n_neighbors = 5, n_clusters=10, iter = 2),
     'NRAS' : sv.NRAS(random_state = 777, n_neighbors = 5),
     'SOMO' : sv.SOMO(random_state = 777, n_grid = 10, sigma = 0.2, learning_rate = 0.5, n_iter = 100),
-    'IHOT': IHOT(n_neighbors = 3, optimization = 'best')
+    # 'IHOT': IHOT(n_neighbors = 3, optimization = 'best')
 }
 
 
@@ -67,12 +66,14 @@ def single_test(classifier, resampling_method, classifier_para_dict = None, stor
     if 'classifier' in dir(resampler):
         resampler.set_params(**{'classifier' : clf})
     ###################
-    logging.info(f'{classifier} starts to process.')
-
+    logger.info(f'{classifier} starts to process.')
+    time_stamp = np.full([len(data_list), 1], fill_value = 'None')
+    
     for i in range(len(data_list)):
         timer = time.time()
         dataset = import_dataset(path = './Dataset/' + data_list[i] + '.dat')
         dataset = dataset.select_dtypes(['number', 'category'])
+        
         # print(dataset.shape)
         # model = F.Train_model(train_data = dataset, classifier = clf, parameters_dict = para_dict, resampler = resampler)
         if 'classifier' in dir(resampler):
@@ -81,6 +82,8 @@ def single_test(classifier, resampling_method, classifier_para_dict = None, stor
         model = F.Train_model(train_data = dataset, classifier = clf, resampler = resampler)
         model.evaluation()
         outcome.iloc[i, :] = model.evaluation_outcome.iloc[0,:]
+        
+        time_stamp[i, 0] = np.round(time.time() - timer, 6)
 
 
         # if isinstance(resampler, ClusIBasedOversampling):
@@ -91,11 +94,12 @@ def single_test(classifier, resampling_method, classifier_para_dict = None, stor
         # final_shape.iloc[i, 0] = min(model.final_shape())
         # final_shape.iloc[i, 1] = max(model.final_shape())
         
-        logging.info(f'{classifier} : {data_list[i]} has compeleted!')
+        logger.info(f'{classifier} : {data_list[i]} has compeleted!')
 
-    logging.info(f'Evaluation outcome : \n {outcome}')
-    logging.info(f'{classifier} have been done.')
-    logging.info('-'*100)
+    outcome['ExeTime'] = time_stamp
+    logger.info(f'Evaluation outcome : \n {outcome}')
+    logger.info(f'{classifier} have been done.')
+    logger.info('-'*100)
     if store_model:
             outcome.to_csv(r'./Experimental_result/' + file_name + '.csv', index = True)
         # final_shape.to_csv(r'C:/Users/KEE/Desktop/PF_SMOTE_DATASETS/EVL_outcome/' + name + '_final_shape.csv')
@@ -103,21 +107,25 @@ def single_test(classifier, resampling_method, classifier_para_dict = None, stor
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level = logging.DEBUG,
-                    format = "%(asctime)s %(levelname)s %(message)s",
-                    datefmt = "%Y-%m-%d %H:%M:%S",
-                    filename = './log/20230807_training.log')
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.DEBUG)
+
+    formatter = logging.Formatter("%(name)s: %(asctime)s: %(levelname)s: %(message)s", "%Y-%m-%d %H:%M:%S")
+    filehandler = logging.FileHandler('./log/2023110607_training.log')
+    filehandler.setFormatter(formatter)
+
+    logger.addHandler(filehandler)
     # import dataset
-    data_list = read_data_list(path = './Dataset/')[5:10]
+    data_list = read_data_list(path = './Dataset/')[3:7]
     start = time.time()
 
     cluster_dict = {
-        'KM5' :  ClusIBasedOversampling(n_clusters = 5, clustering_method = KMeans(n_init = 10)),
-        'KM4' :  ClusIBasedOversampling(n_clusters = 4, clustering_method = KMeans(n_init = 10)),
-        'AHC5' : ClusIBasedOversampling(n_clusters = 5, clustering_method = AgglomerativeClustering()),
-        'AHC4' : ClusIBasedOversampling(n_clusters = 4, clustering_method = AgglomerativeClustering()),
+        'KM5' :  ClusIBasedOversampling(n_clusters = 5, clustering_method = KMeans(n_init = 10), early_stopping = 10, learning_rate = 0.1),
+        'KM4' :  ClusIBasedOversampling(n_clusters = 4, clustering_method = KMeans(n_init = 10), early_stopping = 10, learning_rate = 0.1),
+        'AHC5' : ClusIBasedOversampling(n_clusters = 5, clustering_method = AgglomerativeClustering(), early_stopping = 10, learning_rate = 0.1),
+        'AHC4' : ClusIBasedOversampling(n_clusters = 4, clustering_method = AgglomerativeClustering(), early_stopping = 10, learning_rate = 0.1),
         # 'HDB_rm_noise' : ClusIBasedOversampling(clustering_method = HDBSCAN(min_cluster_size = 2), , early_stopping = 5),
-        'HDB_with_noise' : ClusIBasedOversampling(clustering_method = HDBSCAN(min_cluster_size = 2)),
+        'HDB' : ClusIBasedOversampling(clustering_method = HDBSCAN(min_cluster_size = 2)),
     } 
     
     pre = 'CIBO'
@@ -129,7 +137,7 @@ if __name__ == '__main__':
         for clf in ['DT', 'RF', 'MLP', 'NB', 'KNN', 'SVM']:
             single_test(classifier = clf, resampling_method = pre, classifier_para_dict = None,
                         # store_model = False, file_name = 'MLP/' + pre + '_' +  clf)
-                        store_model = True, file_name = '20230808_test/' + clus + '/' + pre + '_' +  clf)
+                        store_model = False, file_name = '20231106_test/' + clus + '/' + pre + '_' +  clf)
                         # store_model = True, file_name = 'SVM_test_large_satu_limit_0605/' + 'linear' + clus + '_' + pre + '_' +  clf)
 
     ###########################################################################
